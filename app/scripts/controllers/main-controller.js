@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 /**
  * @ngdoc function
@@ -7,11 +7,11 @@
  * # MainCtrl
  * Controller of the yolifeApp
  */
-angular.module('yolifeApp')
-  .controller('MainCtrl', function ($scope) {
+angular.module("yolifeApp")
+  .controller("MainCtrl", function ($scope) {
     $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
+      "HTML5 Boilerplate",
+      "AngularJS",
+      "Karma"
     ];
   });
