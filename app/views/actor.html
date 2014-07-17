@@ -1,1 +1,140 @@
-<p>This is the about view.</p>
+<div class="actor">
+	<div id="container">
+		<div id="sidebar">
+			<h1>The Showcase <br />
+  				of
+				the Class <br />
+				of 2014
+			</h1>
+			<div id="sidebarnav">
+				<ul>
+					<!--<li><a href="https://yaledrama.digication.com/molly_bernard/Home" target="_blank"><strong>Click here to view production photos and other media at this actor's professional portfolio page</strong></a></li>-->
+  					<li></li>
+					<li><strong><br />
+						<a href="#" target="_blank">Click here to visit this actor's website </a></strong><br />
+						<br />
+					</li>
+					<li><a ng-href="/">Return to Main Page</a></li>
+					<li></li>
+				</ul>
+			</div>
+		</div>
+
+
+		<div id="content">  
+			<table>
+				<tr>
+					<td rowspan="4"><img ng-src="{{ actor.imageUrl }}" alt="Gloria Mann" width="250" height="304" border="0" /></td>
+				  	<td colspan="3" class="name">{{ actor.name }}</td>
+				 </tr>
+				<tr>
+				  	<td colspan="3" class="union"><strong>Union affiliation: </strong><br>
+					{{ actor.unionAffiliation }}</td>
+				</tr>
+				<tr>
+				  	<td colspan="3" class="contact">&nbsp;</td>
+				</tr>
+				<tr>
+				  	<td colspan="3" class="contact">Hair color: {{ actor.hairColor }} <br />
+
+					Eye color: {{ actor.eyeColor }}</td>
+
+
+					<!-- <p>Voice Sample</p>
+						<p id="player">
+						<script type="text/javascript">
+						var s3 = new SWFObject("../mp3player.swf", "line", "240", "20", "7");
+						s3.addVariable("file","voice.mp3");
+						s3.addVariable("repeat","true");
+						s3.addVariable("showdigits","true");
+						s3.write("player");
+						</script></td> -->
+				</tr>
+			</table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			  	<tr>
+					<td colspan="4"><h2>Production   Experience</h2></td>
+			  	</tr>
+			  
+			  	<!-- THEATER-->
+			  	<tr>
+					<td width="279"><p>Title</p></td>
+					<td width="205"><p>Role</p></td>
+					<td width="222"><p>Place</p></td>
+					<td width="174"><p>Director</p></td>
+			  	</tr>
+			  	<tr>
+					<td><h3><br />
+				  		Theater</h3></td>
+					<td><p>&nbsp;</p></td>
+					<td><p>&nbsp;</p></td>
+					<td width="174"><p>&nbsp;</p></td>
+			  	</tr>
+			  	<tr ng-repeat="experience in actor.theaterExperiences">
+			  		<td><p><em>{{ experience.title }}</em></p></td>
+			  		<td><p>{{ experience.role }}</p></td>
+			  		<td><p>{{ experience.place }}</p></td>
+			  		<td><p>{{ experience.director }}</p></td>
+			  	</tr>
+
+				<!-- FILM -->
+			  	<tr>
+					<td><h3><em><br />
+				  		Film</em></h3></td>
+					<td><p>&nbsp;</p></td>
+					<td><p>&nbsp;</p></td>
+					<td width="174"><p>&nbsp;</p></td>
+			  	</tr>
+			  	<tr ng-repeat="experience in actor.filmExperiences">
+			  		<td><p><em>{{ experience.title }}</em></p></td>
+			  		<td><p>{{ experience.role }}</p></td>
+			  		<td><p>{{ experience.place }}</p></td>
+			  		<td><p>{{ experience.director }}</p></td>
+			  	</tr>
+
+				<!-- TELEVISION -->
+			  	<tr>
+					<td><h3><em><br />
+				  		Television</em></h3></td>
+					<td><p>&nbsp;</p></td>
+					<td><p>&nbsp;</p></td>
+					<td width="174"><p>&nbsp;</p></td>
+			  	</tr>
+			  	<tr ng-repeat="experience in actor.televisionExperiences">
+			  		<td><p><em>{{ experience.title }}</em></p></td>
+			  		<td><p>{{ experience.role }}</p></td>
+			  		<td><p>{{ experience.place }}</p></td>
+			  		<td><p>{{ experience.director }}</p></td>
+			  	</tr>
+
+			</table>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			  	<tr>
+					<td colspan="4"><h2>Education</h2></td>
+			  	</tr>
+			  	<tr>
+					<td><p>School</p></td>
+					<td><p>Degree</p></td>
+					<td><p>Area of Study</p></td>
+					<td><p>Teacher</p></td>
+			  	</tr>
+
+			  	<tr ng-repeat="experience in actor.trainingExperiences">
+			  		<td><p><em>{{ experience.school }}</em></p></td>
+			  		<td><p>{{ experience.degree }}</p></td>
+			  		<td><p>{{ experience.area }}</p></td>
+			  		<td><p>{{ experience.teacher }}</p></td>
+			  	</tr>
+			</table>
+			<p>&nbsp;</p>
+			<table border="0" cellspacing="0" cellpadding="0">
+			  	<tr>
+					<td colspan="4" valign="top"><h2>Special Skills</h2></td>
+			  	</tr>
+			  	<tr>
+					<td colspan="4" valign="top"><p>{{ actor.specialSkills }}</p></td>
+			  	</tr>
+			</table>
+		</div>
+	</div>
+</div>
