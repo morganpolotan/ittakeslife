@@ -1,79 +1,519 @@
-/* Space out content a bit */
+html, body {
+  margin:0;
+  padding:0
+}
+  
 body {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font: 11px Verdana, Geneva, sans-serif;
+}
+
+  
+body.home #container {
+  text-align: left;
+  /*background-image: url(../showcase10/actors10.jpg);*/
+  background-position: top right;
+  background-repeat: no-repeat;
+  width: 1080px;
+  margin: 0 auto;
+  height: auto;
+  margin-top: 1em;/*was .5em */
+}
+
+body.actor #container {
+  text-align: left;
+  width: 1080px;
+  margin: 0 auto;
+  /*height: 500px;*/
+} 
+
+img   {
+  border: 0;
+}
+
+.style1 {
+  color: #2E6798; 
+  font-size:14px
+}
+.style2 {
+  color: #2E6798;
+  font-size: 10px;
+  line-height: 11px;
+}
+
+#content img {
+  margin: 0 1em 1em 0;
+  float: left;
+  vertical-align: middle;
+  text-align: left;
+  margin-top: 0em;  
+} 
+  
+
+#content p {
+  line-height:1.25em
+}
+
+
+#sidebar {
+  float: left;
+  margin-top: 1em;
+  width: 180px;
+  color: #2E6798;
+  text-align: left;
+  left: -1px;
+}
+  
+body.home #content {
+  float: right;
+  width: 880px;
+  margin-top: 0px;
+  margin-bottom: 1em; 
+}
+  
+body.actor #content {
+  float: right;
+  width: 880px;
+  margin-top: 1em;
+}
+  
+#resume {
+  clear: both;
+  width: 780px;
+} 
+  
+#sidebar p {
+  line-height: 1.25;
+  margin-top: .5em;
+}
+  
+#sidebar p.logo {
+  margin-top: 0;
+}
+
+#sidebar h1 {
+  font-size: 17px;
+  color: #b7d62b;
+  font-weight: bold;
+  line-height: 1.125em;
+  padding-top: .25em;
+  padding-bottom: .25em;
+  border-top: 2px dotted #dfdff8;
+  border-right: 0px none;
+  border-bottom: 2px dotted #dfdff8;
+  border-left: 0px none;
+  font-variant: small-caps;
+}
+  
+#sidebar h2 {
+  font-size: 10px;
+  /*font-variant: small-caps;*/
+  color: #036;
+  /*color: #2E6798;*/
+  font-weight: normal;
+  /*line-height: 1em;
+  margin-bottom: -1.25em;*/
+}
+  
+#sidebar h3 {
+  font-size: 9px;
+  color: #b7d62b;
+  font-weight: bold;
+  line-height: 1em;
+  margin-top: .75em;
+  margin-bottom: 0em;
+  text-transform: uppercase;
+  padding-top: .25em;
+  padding-bottom: .25em;
+  border-top: 2px dotted #dfdff8;
+  border-right: 0px none;
+  border-bottom: 2px dotted #dfdff8;
+  border-left: 0px none;
+} 
+  
+#sidebar h4  {
+  font-size: 10px;
+  /*color: #036;*/
+  color: #2E6798;
+  font-weight: normal;
+  line-height: 1.125em;
+  margin-top: .75em;
+  margin-bottom: 0em;
+}
+
+#sidebar h5  {
+  font-size: 9px;
+  color: #036;
+  font-weight: bold;
+  line-height: 1.25em;
+  margin-top: .75em;
+  margin-bottom: 0em;
+} 
+  
+#sidebarnav h4  {
+  line-height: 1.25em;
+  margin: 1px;
+  background-color: #FFFFFF;
+  text-align: left;
+  padding: 1px;
+  text-indent: 9px;
+  background-image: url(../../images/nav.gif);
+  background-repeat: no-repeat;
+  background-position: 3px 50%;
+}
+  
+#sidebarnav img {
+  margin-bottom: -.5em;
+} 
+
+#sidebarnav ul {
+  text-indent: 0em;
+  margin-left: 0em;
+  padding-left: 0em;
+}
+
+#sidebarnav li {
+  list-style: none outside;
+}
+#content h1 {
+  font-size: 24px;
+  font-variant: small-caps;
+  color: #2E6798;
+  font-weight: bold;
+  line-height: 1em;
+  margin-top: 1em;
+  margin-bottom: 0px;
+}
+
+#content h2 {
+  font-size: 15px;
+  color: #2E6798;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 1.5em;
+  border-bottom: 2px dotted #b7d62b;
+  padding-bottom: 0em;
+  margin: 0.25em 0em 0em;
+  font-variant: small-caps;
+}   
+
+#content h3   {
+  font-size: 11px;
+  color: #2E6798;
+  font-weight: normal;
+  line-height: 1em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  font-style: italic;
+} 
+
+#content h4   {
+  font-size: 9px;
+  color: #2E6798;
+  font-weight: bold;
+  line-height: 1em;
+  margin-top: 1em;
+  margin-bottom: -0.75em;
+} 
+    
+#content h5 {
+  font-size: 9px;
+  color: #2E6798;
+  line-height: 1em;
+  margin-top: 0em;
+  margin-bottom: .25em;
+  font-weight: normal;
+} 
+  
+ul.resume {
+  font-size: 18px;
+  color: #2E6798;
+  line-height: 1.25em;
+  margin-top: 1em;
+  margin-bottom: 0;
+  font-weight: normal;
+  list-style-type: none;
+}
+
+li.mail a {
+  color: #2E6798;
+  font-style: italic;
+} 
+  
+a:link, a:visited {
+  text-decoration : none;
+  color: #b7d62b;
+  background: transparent; 
+}
+
+a:hover {
+  text-decoration : underline;
+  color: #2E6798;
+  background: transparent; 
+}
+
+a:active {
+  text-decoration : none;
+  color: #2E6798;
+  background: transparent;  
+}
+
+#sidebar a:link, #sidebar a:visited {
+  color: #2E6798;
+}
+
+#sidebar a:hover, #sidebar a:active {
+  color: #2E6798;
+}
+  
+#actors {
+  margin-top: .25em;
+  margin-bottom: .25em;
+  padding: 2px;
+  background: #fff;
+  border-top: 2px dotted #b7d62b;
+  border-right: 0px none;
+  border-bottom: 0px none;
+  border-left: 0px none;
+}   
+  
+
+#actors p {
+  line-height: 2em;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #2E6798;
+} 
+  
+#actors p a:link, #actors ul li a:visited {
+  color: #2E6798;
+  font-weight: bold;
+}
+  
+#actors p a:hover a: active {
+  color: #b7d62b;
+  font-weight: bold;
+}
+
+#actors ul li a:link, #actors ul li a:visited {
+  color: #2E6798;
+  font-weight: bold;
+}
+
+#actors ul li a:hover, #actors ul li a:active {
+  color: #b7d62b;
+  font-weight: bold;
+}
+  
+#actors ul li {
+/*  font-variant: small-caps;
+*/  font-size: 10px;
+}
+
+#actors ul {
+  padding-left: 0;
+  margin: 0;
+}
+
+#actors li {
+  display: inline;
+  padding: 0 3px;
+  color: #2E6798;
+}
+
+#footer {
+  clear: both;
+  width: 100%;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+  padding-top: 1em;
+}
+  
+#footer p {
+  color: #006;
+  font-size: 9px;
+  text-transform: uppercase;
+  font-weight: normal;
+  line-height: 1.25em;
+}
+
+table {
+  background: #fff;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  color: #333333;
+  width: 100%;
+}
+  
+/*caption {
+  font-weight: bold;
+  color: #fff;
+  font-size: 15px;
+  text-align: left;
+  padding: 0 .25em 0 .25em;
+  text-transform: uppercase;
+  background-color: #DFDFF8;
+  width: 100%;
+} */
+  
+tr {
+  width: 100%;
+}
+
+td {
+  font-size: 10px;
+  vertical-align: top;
+  line-height: 1em;
+  padding: 0.25em;
+  width: auto;
+}
+  
+td.type {
+  color: #2E6798;
+  font-size: 10px;
+  font-weight: normal;
+  text-align: left;
+  line-height: 1em;
+} 
+  
+td.type img {
+  padding: 1em 0em .5em;
+  margin: 0em;
+  text-align: left;
+} 
+  
+th.tab {
+  color: #fff;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0;
+  background-color: #2E6798;
+  width: 189px; 
+}
+
+td.name {
+  font-size: 21px;
+  font-weight: bold;
+  color: #2E6798;
+  padding: 1em 0em 0em;
+  font-variant: small-caps;
+}
+
+td.name2 {
+  font-size: 21px;
+  font-weight: bold;
+  color: #2E6798;
+  padding: .25em 0em 0em;
+  font-variant: small-caps;
+}
+
+td.union {
+  font-size: 11px;
+  font-weight: normal;
+  color: #2E6798;
+  line-height: 1.25em;
+}
+
+td.contact {
+  font-size: 11px;
+  font-weight: normal;
+  color: #2E6798;
+  line-height: 1.25em;
+}   
+      
+
+
+
+
+
+
+
+
+
+
+/* YEOMAN STYLES */
+/* Space out content a bit */
+/*body {
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
-.header,
+/*.header,
 .marketing,
 .footer {
   padding-left: 15px;
   padding-right: 15px;
-}
+}*/
 
 /* Custom page header */
-.header {
+/*.header {
   border-bottom: 1px solid #e5e5e5;
-}
+}*/
 /* Make the masthead heading the same height as the navigation */
-.header h3 {
+/*.header h3 {
   margin-top: 0;
   margin-bottom: 0;
   line-height: 40px;
   padding-bottom: 19px;
-}
+}*/
 
 /* Custom page footer */
-.footer {
+/*.footer {
   padding-top: 19px;
   color: #777;
   border-top: 1px solid #e5e5e5;
-}
+}*/
 
 /* Customize container */
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
   .container {
     max-width: 730px;
   }
 }
 .container-narrow > hr {
   margin: 30px 0;
-}
+}*/
 
 /* Main marketing message and sign up button */
-.jumbotron {
+/*.jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
 }
 .jumbotron .btn {
   font-size: 21px;
   padding: 14px 24px;
-}
+}*/
 
 /* Supporting marketing content */
-.marketing {
+/*.marketing {
   margin: 40px 0;
 }
 .marketing p + h4 {
   margin-top: 28px;
-}
+}*/
 
 /* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
+/*@media screen and (min-width: 768px) {*/
   /* Remove the padding we set earlier */
-  .header,
+  /*.header,
   .marketing,
   .footer {
     padding-left: 0;
     padding-right: 0;
-  }
+  }*/
   /* Space out the masthead */
-  .header {
+  /*.header {
     margin-bottom: 30px;
-  }
+  }*/
   /* Remove the bottom border on the jumbotron for visual effect */
-  .jumbotron {
+  /*.jumbotron {
     border-bottom: 0;
-  }
-}
+  }*/
+/*}*/
