@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 /**
  * @ngdoc function
@@ -7,9 +7,10 @@
  * # AboutCtrl
  * Controller of the yolifeApp
  */
-angular.module('yolifeApp')
-  .controller('ActorCtrl', function ($scope, $http, $routeParams, ActorService) {
+angular.module("yolifeApp")
+  .controller("ActorCtrl", function ($scope, $http, $routeParams, ActorService) {
+  	console.log($routeParams);
   	ActorService.getActor($routeParams.actorName).then(function (actor) {
   		$scope.actor = actor;
-  	})
+  	});
   });
