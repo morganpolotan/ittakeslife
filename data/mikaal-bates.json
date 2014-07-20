@@ -5,107 +5,210 @@
 		"width": 450,
 		"height": 550
 	},
-	"unionAffiliation": "",
+	"height": "6'4\"",
+	"weight": "200 lbs",
+	"unionAffiliation": "---",
 	"hairColor": "Black",
 	"eyeColor": "Brown",
 	"theaterExperiences": [{
-		"title": "Aesops Not So Famous Fables",
-		"role": "Various",
-		"place": "East Stroudsburg High",
-		"director": "---"
+		"title": "Queen of the Night",
+		"role": "Osiris",
+		"place": "Randy Weiner/Variety World Wide",
+		"director": "Christine Jones"
+	}, {
+		"title": "The Memory of Water",
+		"role": "Mike",
+		"place": "The Gene Frankel Theatre",
+		"director": "Paul Bozymowski"
+	}, {
+		"title": "Twelfth Night",
+		"role": "Fabian",
+		"place": "The Mad & Merry Theatre Co.",
+		"director": "Beth Pollack"
+	}, {
+		"title": "Andromache",
+		"role": "Orestes",
+		"place": "The Tinker's Collective",
+		"director": "Emily Boyd"
+	}, {
+		"title": "Trifles",
+		"role": "Sherrif Peters",
+		"place": "Cart Before Horse Productions",
+		"director": "Quincy Beard"
+	}, {
+		"title": "Shakespeare Showcase",
+		"role": "Henry V, Iago, Hotspur",
+		"place": "Mortal Folly Theatre Co.",
+		"director": "Katherine Harte DeCoux"
+	}, {
+		"title": "The Rocky Horror Show",
+		"role": "Rocky",
+		"place": "FSU Theatre Dept.",
+		"director": "Darren Jones"
 	}],
 	"filmExperiences": [{
-		"title": "Two Lovers",
-		"role": "Club Patron",
-		"place": "2929 Prod",
-		"director": "James Gray"
+		"title": "Brian",
+		"role": "Danny (Lead)",
+		"place": "Christopher Birk Productions",
+		"director": "Christopher Birk"
 	}, {
-		"title": "Fighting",
-		"role": "Patron",
-		"place": "Misher Films",
-		"director": "Dito Montiel"
+		"title": "Courtesy Flush",
+		"role": "Will (Lead)",
+		"place": "Larkin Pictures",
+		"director": "Phillips Payson"
 	}, {
-		"title": "The Cut",
-		"role": "Big Guy #2 (Principal)",
-		"place": "NYU",
-		"director": "Jonah Q. Pettigrew"
+		"title": "In the Beginning",
+		"role": "Adam (Lead)",
+		"place": "Buds of May Productions",
+		"director": "Chloe Lenihan"
 	}, {
-		"title": "Strapped",
-		"role": "Boy in Park",
-		"place": "HBO",
-		"director": "Forest Whitaker"
+		"title": "The Wolf of Wall Street",
+		"role": "Tall Stockbroker",
+		"place": "TWOWS LLC",
+		"director": "Martin Scorcese"
+	}, {
+		"title": "Dutch Kills",
+		"role": "Lou Hazaan (Lead)",
+		"place": "Dutch Kills, LLC",
+		"director": "Joseph Mazzella"
+	}, {
+		"title": "Spreading Thin",
+		"role": "John Dockett",
+		"place": "Stick Men of Brooklyn, INC.",
+		"director": "Greg Baney"
+	}, {
+		"title": "Let Me Out",
+		"role": "Manuel",
+		"place": "New York Film Academy",
+		"director": "Jacopo Messina"
+	}, {
+		"title": "Casting Room",
+		"role": "Miguel",
+		"place": "Bayard Studios, NYC",
+		"director": "Kevin Foong"
+	}, {
+		"title": "I See Her",
+		"role": "Eddie",
+		"place": "NYU Film School",
+		"director": "Tine Thomasen"
+	}, {
+		"title": "Jess and Jake",
+		"role": "Jake",
+		"place": "Bayard Studios, NYC",
+		"director": "Kevin Foong"
+	}, {
+		"title": "Multiple",
+		"role": "Satellite Installer",
+		"place": "Warren Films, INC",
+		"director": "Joel Wear"
 	}],
 	"televisionExperiences": [{
-		"title": "Can Openers",
-		"role": "Cook",
-		"place": "Canterbury Productions",
-		"director": "---"
+		"title": "The Help",
+		"role": "Alan Dershowitz",
+		"place": "Discovery ID / Bray Entertainment",
+		"director": "Christian Faber"
 	}, {
-		"title": "Law and Order",
-		"role": "Juror",
-		"place": "NBC Universal/Wolf Films",
-		"director": "---"
+		"title": "Dates From Hell",
+		"role": "Marco",
+		"place": "Discovery ID / Optomen",
+		"director": "Jason Renley"
+	}, {
+		"title": "School Spirits",
+		"role": "Lucian Fletcher",
+		"place": "SyFy / Mark Burnett Productions",
+		"director": "Pablo Proenza"
+	}, {
+		"title": "Evil, I",
+		"role": "Gary Heidnik",
+		"place": "Discovery ID / Optomen",
+		"director": "Jeremy Crowell"
+	}, {
+		"title": "Mysteries of the Museum",
+		"role": "Abraham Lincoln",
+		"place": "The Travel Channel",
+		"director": "Remy Weber"
+	}, {
+		"title": "Celebrity Ghost Stories",
+		"role": "Father Damien",
+		"place": "The Biography Channel",
+		"director": "Charles Mysak"
+	}, {
+		"title": "Deadly Sins",
+		"role": "Jack Love",
+		"place": "Discovery ID",
+		"director": "Susan Levit"
+	}, {
+		"title": "Un Maid en Manhattan",
+		"role": "Doble Lucas",
+		"place": "Telemundo",
+		"director": "Nicolas Diblasi"
+	}, {
+		"title": "Mysteries of the Museum",
+		"role": "John James Audubon",
+		"place": "The Travel Channel",
+		"director": "Kyle Mcabe"
 	}],
 	"trainingExperiences": [{
 		"school": "William Esper Studio",
-		"degree": "---",
-		"area": "Acting Technique Level II",
-		"teacher": "David Newer"
+		"degree": "Two Year Master Class",
+		"area": "Master Class (2 Years)",
+		"teacher": "Bill Esper"
 	}, {
 		"school": "William Esper Studio",
-		"degree": "---",
-		"area": "Acting Technique Level I",
-		"teacher": "David Newer"
+		"degree": "Two Year Master Class",
+		"area": "Actor Training (2 Years)",
+		"teacher": "Suzanne Esper"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Acting Level II: Scene Study",
-		"teacher": "Valerie Kingston"
+		"school": "William Esper Studio",
+		"degree": "Two Year Master Class",
+		"area": "Shakespeare (2 Years)",
+		"teacher": "Bill Esper"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Acting and Auditioning for Film and Television",
-		"teacher": "Judy Bowman"
+		"school": "William Esper Studio",
+		"degree": "Two Year Master Class",
+		"area": "Voice and Speech",
+		"teacher": "Nancy Mayans"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Commercial Techniques",
-		"teacher": "Judy Bowman"
+		"school": "William Esper Studio",
+		"degree": "Two Year Master Class",
+		"area": "Script Analysis",
+		"teacher": "M.Z. Ribalow"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Bowman Acting Level I",
-		"teacher": "Angel David"
+		"school": "William Esper Studio",
+		"degree": "Two Year Master Class",
+		"area": "Audition Technique",
+		"teacher": "Deb Jackel"
 	}, {
-		"school": "Star Productions",
-		"degree": "---",
-		"area": "Theatre Arts Workshop",
-		"teacher": "Kenny Resinski"
+		"school": "William Esper Studio",
+		"degree": "Two Year Master Class",
+		"area": "Cold Reading",
+		"teacher": "Deb Jackel"
 	}, {
-		"school": "Saint Francis University",
-		"degree": "---",
-		"area": "Public Speaking",
-		"teacher": "Brent Ottaway"
+		"school": "William Esper Studio",
+		"degree": "Two Year Master Class",
+		"area": "On-Camera",
+		"teacher": "David and Linda Laundra"
 	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "TV and Video Productions",
-		"teacher": "Sarah Shelton"
+		"school": "William Esper Studio",
+		"degree": "Two Year Master Class",
+		"area": "Mask",
+		"teacher": "Akil David and Per Brahe"
 	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Multimedia Productions",
-		"teacher": "Darrin Dobrowolski"
+		"school": "William Esper Studio",
+		"degree": "Two Year Master Class",
+		"area": "Singing",
+		"teacher": "Donna Reid"
 	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama II",
-		"teacher": "Christine Kropcho"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama I",
-		"teacher": "Christine Kropcho"
+		"school": "William Esper Studio",
+		"degree": "Two Year Master Class",
+		"area": "Energy Work",
+		"teacher": "Nancy Mayans"
 	}],
-	"specialSkills": "Valid Drivers License, Basketball, Track and Field, Boxing, Weightlifting"
+	"specialSkills": {
+		"accentsDialects": "---",
+		"languages": "---",
+		"sports": "Cross-Fit, Yoga, Basketball, Football, Track, Baseball, Soccer, Skateboarding, Snowboarding, Climbing, Martial Arts (Muay Thai, Shao-lin Do, Aikido, Boxing)",
+		"musicDance": "Saxophone, Piano, Guitar, Voice, Hand Drums",
+		"other": "Writer (Screen, Stage, Television, Fiction, Poetry, Politics, Travel, Songwriting), Bartender (9 years NYC experience - current position: \"Queen of the Night\" at the Diamond Horseshoe"
+	}
 }
