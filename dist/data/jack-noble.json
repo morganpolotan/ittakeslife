@@ -5,107 +5,180 @@
 		"width": 560,
 		"height": 500
 	},
-	"unionAffiliation": "",
-	"hairColor": "Black",
-	"eyeColor": "Brown",
+	"height": "6'2\"",
+	"weight": "190 lbs",
+	"unionAffiliation": "SAG-AFTRA",
+	"hairColor": "Brown",
+	"eyeColor": "Blue",
 	"theaterExperiences": [{
-		"title": "Aesops Not So Famous Fables",
-		"role": "Various",
-		"place": "East Stroudsburg High",
+		"title": "Twelfth Night",
+		"role": "Orsino",
+		"place": "The Tank (Essential Theater Group)",
+		"director": "---"
+	}, {
+		"title": "The Mutilated",
+		"role": "Slim",
+		"place": "New Ohio Theatre",
+		"director": "Cosmin Chivu"
+	}, {
+		"title": "In The Summer House",
+		"role": "Lionel",
+		"place": "Provincetown T. Williams Festival",
+		"director": "David Kaplan"
+	}, {
+		"title": "Marry, F**K, Or Kill",
+		"role": "Billy",
+		"place": "The Players Theater",
+		"director": "---"
+	}, {
+		"title": "It's All Good",
+		"role": "Phil",
+		"place": "The Players Theater",
+		"director": "---"
+	}, {
+		"title": "Norma Jeane Enlightened",
+		"role": "JFK",
+		"place": "The Roy Arias Theater",
 		"director": "---"
 	}],
 	"filmExperiences": [{
-		"title": "Two Lovers",
-		"role": "Club Patron",
-		"place": "2929 Prod",
-		"director": "James Gray"
+		"title": "Good Bones",
+		"role": "Lyle Wilson",
+		"place": "GH Films",
+		"director": "Tim Bohn"
 	}, {
-		"title": "Fighting",
-		"role": "Patron",
-		"place": "Misher Films",
-		"director": "Dito Montiel"
+		"title": "Directions",
+		"role": "Garrett",
+		"place": "Unbo Productions",
+		"director": "Jack Noble"
 	}, {
-		"title": "The Cut",
-		"role": "Big Guy #2 (Principal)",
-		"place": "NYU",
-		"director": "Jonah Q. Pettigrew"
+		"title": "The Watch Party",
+		"role": "Jack",
+		"place": "Unbo Productions",
+		"director": "Jack Noble"
 	}, {
-		"title": "Strapped",
-		"role": "Boy in Park",
-		"place": "HBO",
-		"director": "Forest Whitaker"
+		"title": "Alone Out There",
+		"role": "Jack",
+		"place": "Unbo Productions",
+		"director": "Jack Noble"
+	}, {
+		"title": "Shotgun",
+		"role": "Walker",
+		"place": "Black Beach Productions",
+		"director": "Richard Wyndham"
+	}, {
+		"title": "Subway Silk",
+		"role": "Jay",
+		"place": "---",
+		"director": "Jill Clark"
+	}, {
+		"title": "Clutter",
+		"role": "Co-Worker",
+		"place": "Table Ten Films",
+		"director": "Diane Crespo"
+	}, {
+		"title": "Hos Before Bros",
+		"role": "Lead",
+		"place": "Columbia Univ. MFA Film",
+		"director": "---"
+	}, {
+		"title": "High Fidelities",
+		"role": "Lead",
+		"place": "Columbia Univ. MFA Film",
+		"director": "---"
+	}, {
+		"title": "Vindication",
+		"role": "Lead",
+		"place": "Columbia Univ. MFA Film",
+		"director": "---"
 	}],
 	"televisionExperiences": [{
-		"title": "Can Openers",
-		"role": "Cook",
-		"place": "Canterbury Productions",
+		"title": "Understudies (Web-Series)",
+		"role": "Young Hunk",
+		"place": "---",
+		"director": "Daniel Zimbler"
+	}, {
+		"title": "It Could Be Worse (Web-Series)",
+		"role": "Jack",
+		"place": "Playbill.com",
+		"director": "Wes Taylor and Mitch Jarvis"
+	}, {
+		"title": "2nd Avenue (Web-Series)",
+		"role": "Joe",
+		"place": "---",
+		"director": "Mari Kawade"
+	}, {
+		"title": "Girlhattan (Web-Series)",
+		"role": "Auditioner",
+		"place": "Karmaloop TV",
 		"director": "---"
 	}, {
-		"title": "Law and Order",
-		"role": "Juror",
-		"place": "NBC Universal/Wolf Films",
-		"director": "---"
+		"title": "Band Girlfriends (Web-Series)",
+		"role": "Pete",
+		"place": "---",
+		"director": "Alden Ford"
+	}, {
+		"title": "Kelly and Lindsey Do NYC (Web-Series)",
+		"role": "David",
+		"place": "---",
+		"director": "Ross Evans"
 	}],
 	"trainingExperiences": [{
 		"school": "William Esper Studio",
-		"degree": "---",
-		"area": "Acting Technique Level II",
-		"teacher": "David Newer"
+		"degree": "Two-Year Meisner Training Program",
+		"area": "Acting",
+		"teacher": "Bill Esper"
 	}, {
 		"school": "William Esper Studio",
-		"degree": "---",
-		"area": "Acting Technique Level I",
-		"teacher": "David Newer"
+		"degree": "Two-Year Meisner Training Program",
+		"area": "Voice and Speech",
+		"teacher": "Patricia Fletcher, Nancy Mayans"
 	}, {
 		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Acting Level II: Scene Study",
-		"teacher": "Valerie Kingston"
+		"degree": "Two-Year Meisner Training Program",
+		"area": "Movement",
+		"teacher": "Ted Morin, Jules Helm"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Acting and Auditioning for Film and Television",
-		"teacher": "Judy Bowman"
+		"school": "William Esper Studio",
+		"degree": "Two-Year Meisner Training Program",
+		"area": "Script Analysis",
+		"teacher": "David Kaplan"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Commercial Techniques",
-		"teacher": "Judy Bowman"
+		"school": "William Esper Studio",
+		"degree": "Two-Year Meisner Training Program",
+		"area": "Alexander Technique",
+		"teacher": "Judith Grodowitz"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Bowman Acting Level I",
-		"teacher": "Angel David"
+		"school": "William Esper Studio",
+		"degree": "Two-Year Meisner Training Program",
+		"area": "Mime",
+		"teacher": "Bill Bowers"
 	}, {
-		"school": "Star Productions",
-		"degree": "---",
-		"area": "Theatre Arts Workshop",
-		"teacher": "Kenny Resinski"
+		"school": "William Esper Studio",
+		"degree": "Two-Year Meisner Training Program",
+		"area": "Audition Technique",
+		"teacher": "Deb Jackel"
 	}, {
-		"school": "Saint Francis University",
-		"degree": "---",
-		"area": "Public Speaking",
-		"teacher": "Brent Ottaway"
+		"school": "William Esper Studio",
+		"degree": "Two-Year Meisner Training Program",
+		"area": "Stage Combat",
+		"teacher": "Joe Pisapia"
 	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "TV and Video Productions",
-		"teacher": "Sarah Shelton"
+		"school": "William Esper Studio",
+		"degree": "Two-Year Meisner Training Program",
+		"area": "Shakespeare",
+		"teacher": "Bill Esper, Nancy Mayans"
 	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Multimedia Productions",
-		"teacher": "Darrin Dobrowolski"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama II",
-		"teacher": "Christine Kropcho"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama I",
-		"teacher": "Christine Kropcho"
+		"school": "Tufts University",
+		"degree": "B.A. Political Science, Minor in Drama",
+		"area": "---",
+		"teacher": "---"
 	}],
-	"specialSkills": "Valid Drivers License, Basketball, Track and Field, Boxing, Weightlifting"
+	"specialSkills": {
+		"accentsDialects": "British RP, Classical American, Southern, Boston, New York, Midwest",
+		"languages": "Knowledge of Spanish, French, Italian",
+		"sports": "Baseball (played in college), Advanced Triathlete, Golf, Tennis",
+		"musicDance": "---",
+		"other": "Advanced in Cooking/Knife Skills, Presidential Impersonations, Driver's License, Passport"
+	}
 }

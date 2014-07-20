@@ -5,107 +5,85 @@
 		"width": 500,
 		"height": 500
 	},
+	"height": "5'10\"",
+	"weight": "160 lbs (73 kg)",
 	"unionAffiliation": "",
-	"hairColor": "Black",
+	"hairColor": "Dark Brown",
 	"eyeColor": "Brown",
 	"theaterExperiences": [{
-		"title": "Aesops Not So Famous Fables",
-		"role": "Various",
-		"place": "East Stroudsburg High",
+		"title": "Changing Tables",
+		"role": "Mathieu / Lead",
+		"place": "Thespis Theater Festival",
+		"director": "---"
+	}, {
+		"title": "Line",
+		"role": "Dolan / Lead",
+		"place": "13th Street Repertory Company",
+		"director": "---"
+	}, {
+		"title": "Eternal Equinox",
+		"role": "Duncan Understudy",
+		"place": "59E59 Theaters",
+		"director": "---"
+	}, {
+		"title": "Universal Language",
+		"role": "Don / Lead",
+		"place": "Grove Theater Center, LA",
 		"director": "---"
 	}],
 	"filmExperiences": [{
-		"title": "Two Lovers",
-		"role": "Club Patron",
-		"place": "2929 Prod",
-		"director": "James Gray"
+		"title": "Human Nature",
+		"role": "Dr. Iliff / Supporting",
+		"place": "---",
+		"director": "Raj Trivedi"
 	}, {
-		"title": "Fighting",
-		"role": "Patron",
-		"place": "Misher Films",
-		"director": "Dito Montiel"
+		"title": "Overtime",
+		"role": "Andre / Lead",
+		"place": "---",
+		"director": "Devin Febbroriello"
 	}, {
-		"title": "The Cut",
-		"role": "Big Guy #2 (Principal)",
-		"place": "NYU",
-		"director": "Jonah Q. Pettigrew"
+		"title": "The Feather Pillow",
+		"role": "Jordan / Lead",
+		"place": "---",
+		"director": "Marien DeMoya"
 	}, {
-		"title": "Strapped",
-		"role": "Boy in Park",
-		"place": "HBO",
-		"director": "Forest Whitaker"
+		"title": "Name in Blue",
+		"role": "Bosco / Lead",
+		"place": "---",
+		"director": "Josh Flaherty, Joe Schnier"
 	}],
 	"televisionExperiences": [{
-		"title": "Can Openers",
-		"role": "Cook",
-		"place": "Canterbury Productions",
-		"director": "---"
+		"title": "Vitaminwater Spot",
+		"role": "Spartacus / Featured",
+		"place": "---",
+		"director": "Josh Ruben, Vincent Peone"
 	}, {
-		"title": "Law and Order",
-		"role": "Juror",
-		"place": "NBC Universal/Wolf Films",
+		"title": "Man to Man Commercial",
+		"role": "Inmate / Featured",
+		"place": "Spike TV / Viacom",
 		"director": "---"
 	}],
 	"trainingExperiences": [{
 		"school": "William Esper Studio",
 		"degree": "---",
-		"area": "Acting Technique Level II",
-		"teacher": "David Newer"
+		"area": "Acting",
+		"teacher": "Suzanne Esper, Bill Esper"
 	}, {
 		"school": "William Esper Studio",
 		"degree": "---",
-		"area": "Acting Technique Level I",
-		"teacher": "David Newer"
+		"area": "Movement",
+		"teacher": "Ted Morin, Jules Helm"
 	}, {
-		"school": "TVI Actors Studio",
+		"school": "William Esper Studio",
 		"degree": "---",
-		"area": "Acting Level II: Scene Study",
-		"teacher": "Valerie Kingston"
-	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Acting and Auditioning for Film and Television",
-		"teacher": "Judy Bowman"
-	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Commercial Techniques",
-		"teacher": "Judy Bowman"
-	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Bowman Acting Level I",
-		"teacher": "Angel David"
-	}, {
-		"school": "Star Productions",
-		"degree": "---",
-		"area": "Theatre Arts Workshop",
-		"teacher": "Kenny Resinski"
-	}, {
-		"school": "Saint Francis University",
-		"degree": "---",
-		"area": "Public Speaking",
-		"teacher": "Brent Ottaway"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "TV and Video Productions",
-		"teacher": "Sarah Shelton"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Multimedia Productions",
-		"teacher": "Darrin Dobrowolski"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama II",
-		"teacher": "Christine Kropcho"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama I",
-		"teacher": "Christine Kropcho"
+		"area": "Mime",
+		"teacher": "Bill Bowers"
 	}],
-	"specialSkills": "Valid Drivers License, Basketball, Track and Field, Boxing, Weightlifting"
+	"specialSkills": {
+		"accentsDialects": "American-California, American-Southern States, American-Brooklyn, Irish-Dublin, Scottish-Glasgow, British, French, Spanish-Caribbean, Spanish-Spain, Italian, Puerto Rican",
+		"languages": "Spanish (fluent), French and Italian (conversational)",
+		"sports": "Surfing (8 years), Skateboarding (12 years), Snowboarding (12 years), Horseback-Riding, Basketball, Soccer, Billiards, Yoga",
+		"musicDance": "Latin, Hip-Hop, Tango, Salsa",
+		"other": "Uncanny sense for imitations both physical and vocal"
+	}
 }
