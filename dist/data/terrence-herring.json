@@ -1,0 +1,111 @@
+{
+	"name": "Terrence Herring",
+	"image": {
+		"url": "images/actors/terrence-herring.jpg",
+		"width": 490,
+		"height": 400
+	},
+	"unionAffiliation": "",
+	"hairColor": "Black",
+	"eyeColor": "Brown",
+	"theaterExperiences": [{
+		"title": "Aesops Not So Famous Fables",
+		"role": "Various",
+		"place": "East Stroudsburg High",
+		"director": "---"
+	}],
+	"filmExperiences": [{
+		"title": "Two Lovers",
+		"role": "Club Patron",
+		"place": "2929 Prod",
+		"director": "James Gray"
+	}, {
+		"title": "Fighting",
+		"role": "Patron",
+		"place": "Misher Films",
+		"director": "Dito Montiel"
+	}, {
+		"title": "The Cut",
+		"role": "Big Guy #2 (Principal)",
+		"place": "NYU",
+		"director": "Jonah Q. Pettigrew"
+	}, {
+		"title": "Strapped",
+		"role": "Boy in Park",
+		"place": "HBO",
+		"director": "Forest Whitaker"
+	}],
+	"televisionExperiences": [{
+		"title": "Can Openers",
+		"role": "Cook",
+		"place": "Canterbury Productions",
+		"director": "---"
+	}, {
+		"title": "Law and Order",
+		"role": "Juror",
+		"place": "NBC Universal/Wolf Films",
+		"director": "---"
+	}],
+	"trainingExperiences": [{
+		"school": "William Esper Studio",
+		"degree": "---",
+		"area": "Acting Technique Level II",
+		"teacher": "David Newer"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "---",
+		"area": "Acting Technique Level I",
+		"teacher": "David Newer"
+	}, {
+		"school": "TVI Actors Studio",
+		"degree": "---",
+		"area": "Acting Level II: Scene Study",
+		"teacher": "Valerie Kingston"
+	}, {
+		"school": "TVI Actors Studio",
+		"degree": "---",
+		"area": "Acting and Auditioning for Film and Television",
+		"teacher": "Judy Bowman"
+	}, {
+		"school": "TVI Actors Studio",
+		"degree": "---",
+		"area": "Commercial Techniques",
+		"teacher": "Judy Bowman"
+	}, {
+		"school": "TVI Actors Studio",
+		"degree": "---",
+		"area": "Bowman Acting Level I",
+		"teacher": "Angel David"
+	}, {
+		"school": "Star Productions",
+		"degree": "---",
+		"area": "Theatre Arts Workshop",
+		"teacher": "Kenny Resinski"
+	}, {
+		"school": "Saint Francis University",
+		"degree": "---",
+		"area": "Public Speaking",
+		"teacher": "Brent Ottaway"
+	}, {
+		"school": "East Stroudsburg High",
+		"degree": "---",
+		"area": "TV and Video Productions",
+		"teacher": "Sarah Shelton"
+	}, {
+		"school": "East Stroudsburg High",
+		"degree": "---",
+		"area": "Multimedia Productions",
+		"teacher": "Darrin Dobrowolski"
+	}, {
+		"school": "East Stroudsburg High",
+		"degree": "---",
+		"area": "Drama II",
+		"teacher": "Christine Kropcho"
+	}, {
+		"school": "East Stroudsburg High",
+		"degree": "---",
+		"area": "Drama I",
+		"teacher": "Christine Kropcho"
+	}],
+	"specialSkills": "Valid Drivers License, Basketball, Track and Field, Boxing, Weightlifting"
+}
