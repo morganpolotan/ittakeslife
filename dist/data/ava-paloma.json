@@ -1,0 +1,162 @@
+{
+	"name": "Ava Paloma",
+	"image": {
+		"url": "images/actors/ava-paloma.jpg",
+		"width": 607,
+		"height": 622
+	},
+	"height": "5'5\"",
+	"weight": "117 lbs",
+	"phone": "917-328-3429",
+	"email": "avapaloma@gmail.com",
+	"website": "www.avapaloma.com",
+	"unionAffiliation": "SAG/AFTRA-EMC",
+	"hairColor": "Brown",
+	"eyeColor": "Brown",
+	"theaterExperiences": [{
+		"title": "One Fifth",
+		"role": "Girl",
+		"place": "Players Theater Short Play Festival",
+		"director": "---"
+	}, {
+		"title": "A New Me",
+		"role": "Wife",
+		"place": "---",
+		"director": "Jenny Leon (producer Mitchell Maxwell)"
+	}, {
+		"title": "The Last Black Cowboy",
+		"role": "Girl 2",
+		"place": "NYC Fringe Festival",
+		"director": "---"
+	}, {
+		"title": "The Misanthrope",
+		"role": "u/s Eliante",
+		"place": "Berkshire Theater Festival",
+		"director": "---"
+	}, {
+		"title": "Robin Hood",
+		"role": "Midge",
+		"place": "Berkshire Theater Festival",
+		"director": "---"
+	}, {
+		"title": "Othello",
+		"role": "Emilia",
+		"place": "Pale Horse Productions",
+		"director": "---"
+	}, {
+		"title": "The Vagina Monologues",
+		"role": "Ensemble",
+		"place": "Theresa Lang Theatre",
+		"director": "---"
+	}, {
+		"title": "The Road to Ruin",
+		"role": "Connie",
+		"place": "Theresa Lang Theatre",
+		"director": "---"
+	}, {
+		"title": "The Sign",
+		"role": "Jen",
+		"place": "Pittsburgh New Works Festival",
+		"director": "---"
+	}],
+	"filmExperiences": [{
+		"title": "Reaching Home (starring Debra Monk)",
+		"role": "Supporting",
+		"place": "---",
+		"director": "Kenneth Murphy"
+	}, {
+		"title": "Gossip Girl",
+		"role": "Co-Star",
+		"place": "---",
+		"director": "Andy Wolk"
+	}, {
+		"title": "People Person",
+		"role": "Lead",
+		"place": "---",
+		"director": "David Kirchner, Patrick Clark"
+	}, {
+		"title": "Triangle",
+		"role": "Lead",
+		"place": "Luque Productions",
+		"director": "---"
+	}, {
+		"title": "Siren Call",
+		"role": "Lead",
+		"place": "---",
+		"director": "Evan Metzold"
+	}, {
+		"title": "Amber",
+		"role": "Supporting",
+		"place": "---",
+		"director": "Jason Altman"
+	}, {
+		"title": "Going Up?",
+		"role": "Lead",
+		"place": "---",
+		"director": "Dana Morgan"
+	}],
+	"televisionExperiences": [{
+		"title": "Subway: The Series",
+		"role": "Supporting",
+		"place": "---",
+		"director": "Veronica Dang"
+	}, {
+		"title": "My New Roommate",
+		"role": "Supporting",
+		"place": "ComedyFlo Entertainment",
+		"director": "---"
+	}, {
+		"title": "Recollection",
+		"role": "Lead",
+		"place": "---",
+		"director": "Mitchell Lazar"
+	}, {
+		"title": "Elementary",
+		"role": "Featured",
+		"place": "CBS",
+		"director": "John Coles"
+	}, {
+		"title": "Scorned: Love Kills",
+		"role": "Lead",
+		"place": "---",
+		"director": "Remy Webber"
+	}, {
+		"title": "Monsters Inside Me",
+		"role": "Lead",
+		"place": "Animal Planet",
+		"director": "---"
+	}, {
+		"title": "My Man Is A Loser",
+		"role": "Supporting",
+		"place": "---",
+		"director": "Mike Young"
+	}],
+	"trainingExperiences": [{
+		"school": "William Esper Studio",
+		"degree": "---",
+		"area": "Acting",
+		"teacher": "Bill Esper, Nina Murano, Ann Hamilton, Caymichael Patten, Karen Kohlhass, David Kaplan, Shannon Convery"
+	}, {
+		"school": "Upright Citizens Brigade",
+		"degree": "---",
+		"area": "Improv",
+		"teacher": "Gavin Spieller"
+	}, {
+		"school": "Marymount Manhattan College",
+		"degree": "Bachelor of Arts",
+		"area": "Theater Arts (minor in Directing)",
+		"teacher": "---"
+	}, {
+		"school": "Point Park University",
+		"degree": "---",
+		"area": "Acting Major",
+		"teacher": "---"
+	}],
+	"specialSkills": {
+		"accentsDialects": "British, New York",
+		"languages": "---",
+		"sports": "Biking, Horseback Riding, Swimming, Trapeze",
+		"musicDance": "Guitar, Voice (mezzo-soprano), Dance (Jazz, Ballet)",
+		"other": "Driver's License, Bartending"
+	}
+}

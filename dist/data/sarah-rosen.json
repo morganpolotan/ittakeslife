@@ -5,107 +5,135 @@
 		"width": 607,
 		"height": 622
 	},
-	"unionAffiliation": "",
-	"hairColor": "Black",
+	"height": "5'6\"",
+	"weight": "120 lbs",
+	"unionAffiliation": "---",
+	"hairColor": "Brown",
 	"eyeColor": "Brown",
 	"theaterExperiences": [{
-		"title": "Aesops Not So Famous Fables",
-		"role": "Various",
-		"place": "East Stroudsburg High",
+		"title": "The Givers",
+		"role": "Lead",
+		"place": "Edinburgh Fringe Festival",
 		"director": "---"
+	}, {
+		"title": "Beijing Cake",
+		"role": "Lead",
+		"place": "Edinburgh Fringe Festival",
+		"director": "Maya Seidler"
+	}, {
+		"title": "Rent",
+		"role": "Maureen",
+		"place": "Yale University",
+		"director": "Mike M. Donahue"
+	}, {
+		"title": "Les Liaisons Dangereuses",
+		"role": "Merteuil",
+		"place": "Yale University",
+		"director": "---"
+	}, {
+		"title": "A Midsummer Night's Dream",
+		"role": "Helena",
+		"place": "Foote Summer Theater Conservatory",
+		"director": "---"
+	}, {
+		"title": "Independents",
+		"role": "Lead",
+		"place": "Yale University",
+		"director": "Charlie Polinger"
+	}, {
+		"title": "Bunkerville",
+		"role": "Lead",
+		"place": "Yale University",
+		"director": "Charlie Polinger"
 	}],
 	"filmExperiences": [{
-		"title": "Two Lovers",
-		"role": "Club Patron",
-		"place": "2929 Prod",
-		"director": "James Gray"
+		"title": "Young Like Us",
+		"role": "Lead",
+		"place": "---",
+		"director": "Chloe Sarbib"
 	}, {
-		"title": "Fighting",
-		"role": "Patron",
-		"place": "Misher Films",
-		"director": "Dito Montiel"
+		"title": "Daybreak",
+		"role": "Lead",
+		"place": "NYU Tisch",
+		"director": "Dani Schoffman"
 	}, {
-		"title": "The Cut",
-		"role": "Big Guy #2 (Principal)",
-		"place": "NYU",
-		"director": "Jonah Q. Pettigrew"
+		"title": "Food of Love",
+		"role": "Lead",
+		"place": "Yale University",
+		"director": "Sarah Rosen"
 	}, {
-		"title": "Strapped",
-		"role": "Boy in Park",
-		"place": "HBO",
-		"director": "Forest Whitaker"
+		"title": "James Franco Presents",
+		"role": "Lead",
+		"place": "Yale University",
+		"director": "James Franco"
+	}, {
+		"title": "Civil Unions: A Love Story",
+		"role": "Supporting",
+		"place": "---",
+		"director": "Elisa Zuritsky"
 	}],
 	"televisionExperiences": [{
-		"title": "Can Openers",
-		"role": "Cook",
-		"place": "Canterbury Productions",
-		"director": "---"
-	}, {
-		"title": "Law and Order",
-		"role": "Juror",
-		"place": "NBC Universal/Wolf Films",
+		"title": "---",
+		"role": "---",
+		"place": "---",
 		"director": "---"
 	}],
 	"trainingExperiences": [{
 		"school": "William Esper Studio",
-		"degree": "---",
-		"area": "Acting Technique Level II",
-		"teacher": "David Newer"
+		"degree": "Two Year Meisner Training Program",
+		"area": "Acting",
+		"teacher": "William Esper"
 	}, {
 		"school": "William Esper Studio",
-		"degree": "---",
-		"area": "Acting Technique Level I",
-		"teacher": "David Newer"
+		"degree": "Two Year Meisner Training Program",
+		"area": "Voice",
+		"teacher": "Nancy Mayans"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Acting Level II: Scene Study",
-		"teacher": "Valerie Kingston"
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Training Program",
+		"area": "Movement",
+		"teacher": "Ted Morin, Jules Helm"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Acting and Auditioning for Film and Television",
-		"teacher": "Judy Bowman"
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Training Program",
+		"area": "Script Analysis",
+		"teacher": "David Kaplan"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Commercial Techniques",
-		"teacher": "Judy Bowman"
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Training Program",
+		"area": "Audition Technique",
+		"teacher": "Deb Jackel"
 	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Bowman Acting Level I",
-		"teacher": "Angel David"
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Training Program",
+		"area": "Alexander Technique",
+		"teacher": "Anne Waxman"
 	}, {
-		"school": "Star Productions",
-		"degree": "---",
-		"area": "Theatre Arts Workshop",
-		"teacher": "Kenny Resinski"
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Training Program",
+		"area": "Shakespeare",
+		"teacher": "William Esper and Nancy Mayans"
 	}, {
-		"school": "Saint Francis University",
-		"degree": "---",
-		"area": "Public Speaking",
-		"teacher": "Brent Ottaway"
+		"school": "Yale University",
+		"degree": "Bachelor of Arts (cum laude with honors)",
+		"area": "Film Studies",
+		"teacher": "---"
 	}, {
-		"school": "East Stroudsburg High",
+		"school": "Yale School of Drama",
 		"degree": "---",
-		"area": "TV and Video Productions",
-		"teacher": "Sarah Shelton"
+		"area": "Singing",
+		"teacher": "Vicki Shaghoian"
 	}, {
-		"school": "East Stroudsburg High",
+		"school": "Marcie Bloom Film Fellowship (yearlong fellowship, meeting monthly with leading members of film industry)",
 		"degree": "---",
-		"area": "Multimedia Productions",
-		"teacher": "Darrin Dobrowolski"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama II",
-		"teacher": "Christine Kropcho"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama I",
-		"teacher": "Christine Kropcho"
+		"area": "Film Industry",
+		"teacher": "---"
 	}],
-	"specialSkills": "Valid Drivers License, Basketball, Track and Field, Boxing, Weightlifting"
+	"specialSkills": {
+		"accentsDialects": "French, British, others upon request",
+		"languages": "French, conversational Spanish",
+		"sports": "---",
+		"musicDance": "Singing (soprano)",
+		"other": "---"
+	}
 }

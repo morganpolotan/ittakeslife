@@ -1,0 +1,177 @@
+{
+	"name": "Julia Rosa Stockl",
+	"image": {
+		"url": "images/actors/julia-rosa-stockl.jpg",
+		"width": 607,
+		"height": 622
+	},
+	"height": "---",
+	"weight": "---",
+	"phone": "646-288-9607",
+	"email": "contact@juliarosa.eu",
+	"website": "www.juliarosa.eu",
+	"unionAffiliation": "---",
+	"hairColor": "---",
+	"eyeColor": "---",
+	"theaterExperiences": [{
+		"title": "The Other Mozart (Solo Show)",
+		"role": "Marianna Mozart",
+		"place": "HERE Arts Center (NY)",
+		"director": "Isaac Byrne"
+	}, {
+		"title": "Leaving Ziller Valley (Solo Show)",
+		"role": "Elizabeth",
+		"place": "Theater Row (United Solo Festival)",
+		"director": "---"
+	}, {
+		"title": "Urfaust",
+		"role": "Gretchen",
+		"place": "State Theater Innsbruck (Austria)",
+		"director": "R. Goeber"
+	}, {
+		"title": "The Seagull",
+		"role": "Nina",
+		"place": "State Theater Innsbruck (Austria)",
+		"director": "K. Rohrmoser"
+	}, {
+		"title": "The Wildduck",
+		"role": "Hedwig",
+		"place": "State Theater Innsbruck (Austria)",
+		"director": "K. Rohrmoser"
+	}, {
+		"title": "Stella",
+		"role": "Lucie",
+		"place": "Theater Akzent Vienna (Austria)",
+		"director": "R. Goeber"
+	}, {
+		"title": "Mr. Puntila And His Man Matti",
+		"role": "Eva Puntila",
+		"place": "Tyrolean Theater Festival Telfs (Austria)",
+		"director": "---"
+	}, {
+		"title": "Tannoed (world premiere)",
+		"role": "Marianne",
+		"place": "State Theater Innsbruck (Austria)",
+		"director": "Maya Fanke"
+	}, {
+		"title": "The Crucible",
+		"role": "Betty Parris",
+		"place": "State Theater Innsbruck (Austria)",
+		"director": "K. Rohrmoser"
+	}],
+	"filmExperiences": [{
+		"title": "The People Person",
+		"role": "Supporting",
+		"place": "--- (NY)",
+		"director": "David Kirchner, Patrick Clark"
+	}, {
+		"title": "Dead In 3 Days",
+		"role": "Lead",
+		"place": "Allegro Film (Austria and Germany)",
+		"director": "Andreas Prochaska"
+	}, {
+		"title": "Dead In 3 Days - Part 2",
+		"role": "Supporting",
+		"place": "Allegro Film (Austria and Germany)",
+		"director": "Andreas Prochaska"
+	}, {
+		"title": "Planet USA",
+		"role": "Supporting",
+		"place": "Flo Lackner Films (Austria and Germany)",
+		"director": "Flo Lackner"
+	}, {
+		"title": "Wrong Decision",
+		"role": "Supporting",
+		"place": "Grey Films (Austria and Germany)",
+		"director": "Christoph Schuler"
+	}],
+	"televisionExperiences": [{
+		"title": "The Last Judgment",
+		"role": "Supporting (w/Christoph Waltz)",
+		"place": "Lisa Film (Austria and Germany)",
+		"director": "Urs Egger"
+	}, {
+		"title": "The Vintner King",
+		"role": "Series Regular",
+		"place": "DOR Film (Austria and Germany)",
+		"director": "Holger Barthel, Michi Riebl"
+	}, {
+		"title": "Summer in Croatia",
+		"role": "Supporting",
+		"place": "GRAF Film (Austria and Germany)",
+		"director": "Holger Barthel"
+	}, {
+		"title": "Soko Kitzbuehel",
+		"role": "Various Guest Roles",
+		"place": "BEO Film (Austria and Germany)",
+		"director": "Mike Zens, Gerald Liegel"
+	}, {
+		"title": "Fast Forward",
+		"role": "Guest",
+		"place": "MR Film (Austria and Germany)",
+		"director": "Michi Riebl"
+	}, {
+		"title": "Soko Vienna",
+		"role": "Guest",
+		"place": "Satel Film (Austria and Germany)",
+		"director": "Robert Sigl"
+	}, {
+		"title": "Silence",
+		"role": "Supporting",
+		"place": "Sunset Film (Austria and Germany)",
+		"director": "Xaver Schwarzenberger"
+	}, {
+		"title": "Rosenheim Cops",
+		"role": "Guest",
+		"place": "Bavaria Film (Austria and Germany)",
+		"director": "Guenther Krae"
+	}],
+	"trainingExperiences": [{
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Acting",
+		"teacher": "William Esper"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Movement",
+		"teacher": "Ted Morin"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Voice and Speech",
+		"teacher": "Nancy Mayans, Pat Fletcher"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "NAS",
+		"teacher": "Shannon Esper"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Alexander Technique",
+		"teacher": "Judith Grodowitz"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Cold Reading",
+		"teacher": "Deb Jackel"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "On-Camera",
+		"teacher": "Linda and David Laundra"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Masterclass",
+		"teacher": "Larry Moss"
+	}],
+	"specialSkills": {
+		"accentsDialects": "Classical American, Austrian, German, French, Spanish, Italian, Russian, Hungarian (knowledge of IPA)",
+		"languages": "English and German (bi-lingual), Spanish, French (BA Modern Languages, Open University, UK, 2016)",
+		"sports": "Stage Combat, Surfing, Snowboarding, Skiing, Swimming, Wakeboard, Yoga",
+		"musicDance": "Salsa, Tango, Belly Dance, Ballet, Hip-Hop, Waltz, Music (Piano, Singer)",
+		"other": "Great with kids"
+	}
+}	
