@@ -107,5 +107,10 @@
 		"area": "Drama I",
 		"teacher": "Christine Kropcho"
 	}],
-	"specialSkills": "Valid Drivers License, Basketball, Track and Field, Boxing, Weightlifting"
+	"specialSkills": {
+		"accentsDialects": "---",
+		"sports": "Basketball, Track and Field, Boxing, Weightlifting",
+		"musicDance": "---",
+		"other": "Valid Drivers License"
+	}
 }
