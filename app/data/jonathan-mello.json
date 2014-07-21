@@ -1,0 +1,72 @@
+{
+	"name": "Jonathan Mello",
+	"image": {
+		"url": "images/actors/jonathan-mello.jpg",
+		"width": 500,
+		"height": 700
+	},
+	"height": "5'8\"",
+	"weight": "---",
+	"phone": "401-864-3465",
+	"email": "mello.jonathan.m@gmail.com",
+	"website": "---",
+	"unionAffiliation": "---",
+	"hairColor": "Brown",
+	"eyeColor": "Brown",
+	"theaterExperiences": [{
+		"title": "Fat Pig",
+		"role": "Tom",
+		"place": "Everything Blind",
+		"director": "---"
+	}, {
+		"title": "(19)69 (reading)",
+		"role": "Arnauld",
+		"place": "---",
+		"director": "Melissa Dimetres"
+	}, {
+		"title": "Month, That Year (reading)",
+		"role": "Troy",
+		"place": "The Common Denominator",
+		"director": "---"
+	}, {
+		"title": "Fair Weather (reading)",
+		"role": "Nate",
+		"place": "The Common Denominator",
+		"director": "---"
+	}],
+	"filmExperiences": [{
+		"title": "---",
+		"role": "---",
+		"place": "---",
+		"director": "---"
+	}],
+	"televisionExperiences": [{
+		"title": "---",
+		"role": "---",
+		"place": "---",
+		"director": "---"
+	}],
+	"trainingExperiences": [{
+		"school": "Trinity Repertory Conservatory",
+		"degree": "---",
+		"area": "Acting Intensive",
+		"teacher": "Fred Sullivan, Jr."
+	}, {
+		"school": "William Esper Studio",
+		"degree": "---",
+		"area": "Summer Intensive",
+		"teacher": "Bruce McCarty"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Acting",
+		"teacher": "William Esper"
+	}],
+	"specialSkills": {
+		"accentsDialects": "Various Regional Dialects",
+		"languages": "Spanish speaker",
+		"sports": "---",
+		"musicDance": "---",
+		"other": "Music Reading, Singing, Dancing, Creating, Improviser, Story Teller, Funny Man, Book Nerd"
+	}
+}	

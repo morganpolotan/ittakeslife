@@ -2,110 +2,145 @@
 	"name": "Gloria Mann",
 	"image": {
 		"url": "images/actors/gloria-mann.jpg",
-		"width": 577,
-		"height": 677
+		"width": 500,
+		"height": 587
 	},
-	"unionAffiliation": "",
-	"hairColor": "Black",
-	"eyeColor": "Brown",
+	"height": "---",
+	"weight": "---",
+	"phone": "---",
+	"email": "gloriamann22@gmail.com",
+	"website": "gloriamann.com",
+	"unionAffiliation": "SAG-AFTRA, AEA",
+	"hairColor": "---",
+	"eyeColor": "---",
 	"theaterExperiences": [{
-		"title": "Aesops Not So Famous Fables",
-		"role": "Various",
-		"place": "East Stroudsburg High",
+		"title": "SPARK Reading (2012)",
+		"role": "Evelyn w. Marin Ireland",
+		"place": "Cherry Lane Theater",
+		"director": "Scott Schwartz"
+	}, {
+		"title": "Ashes to Ashes",
+		"role": "Rebecca",
+		"place": "Walker Space",
+		"director": "---"
+	}, {
+		"title": "Midsummer Night's Dream",
+		"role": "1st Fairy (US / Kelly McGillis)",
+		"place": "Ahmanson Theatre",
+		"director": "Bartlett Sher / Sir Peter Hall"
+	}, {
+		"title": "Measure for Measure",
+		"role": "Whore/Nun (US / Anna Gunn)",
+		"place": "Ahmanson Theatre",
+		"director": "Bartlett Sher / Sir Peter Hall"
+	}, {
+		"title": "Floating Islands",
+		"role": "Sara (World Premiere)",
+		"place": "Mark Taper Forum",
+		"director": "Bartlett Sher / Sir Peter Hall"
+	}, {
+		"title": "Death and the Maiden",
+		"role": "Paulina (with Jimmy Smits)",
+		"place": "Mark Taper Forum",
+		"director": "---"
+	}, {
+		"title": "The Maids",
+		"role": "Clair",
+		"place": "Mark Taper Forum",
+		"director": "---"
+	}, {
+		"title": "Play",
+		"role": "Woman #2 (with Terri Garr)",
+		"place": "Mark Taper Forum",
+		"director": "---"
+	}, {
+		"title": "Avenue A",
+		"role": "Rosa (with Mark Ruffalo, LA Critics Circle Award)",
+		"place": "LA, CA",
+		"director": "---"
+	}, {
+		"title": "Tamara",
+		"role": "Emelia (5 year run)",
+		"place": "LA, CA",
+		"director": "---"
+	}, {
+		"title": "The Seagull",
+		"role": "Peasant Girl",
+		"place": "La Jolla Playhouse",
+		"director": "Des McAnuff"
+	}, {
+		"title": "Gilette",
+		"role": "Doreen (World Premiere)",
+		"place": "La Jolla Playhouse",
+		"director": "Des McAnuff"
+	}, {
+		"title": "A Man's a Man",
+		"role": "Wife (with Bill Irwin)",
+		"place": "La Jolla Playhouse",
+		"director": "Robert Woodruff"
+	}, {
+		"title": "Figaro Gets a Divorce",
+		"role": "Paulina (with Tony Plana)",
+		"place": "La Jolla Playhouse",
+		"director": "Robert Woodruff"
+	}, {
+		"title": "Ghost on Fire",
+		"role": "US (with Holly Hunter)",
+		"place": "La Jolla Playhouse",
+		"director": "---"
+	}, {
+		"title": "Merrily We Roll Along",
+		"role": "US (with Marin Mazzie)",
+		"place": "La Jolla Playhouse",
 		"director": "---"
 	}],
 	"filmExperiences": [{
-		"title": "Two Lovers",
-		"role": "Club Patron",
-		"place": "2929 Prod",
-		"director": "James Gray"
+		"title": "Parting Ways (2013 short)",
+		"role": "Ms. White",
+		"place": "---",
+		"director": "Jeremy Profe"
 	}, {
-		"title": "Fighting",
-		"role": "Patron",
-		"place": "Misher Films",
-		"director": "Dito Montiel"
+		"title": "Happiest People in New York (2013 web series)",
+		"role": "Judy Hepburn",
+		"place": "---",
+		"director": "Rebecca Steele"
 	}, {
-		"title": "The Cut",
-		"role": "Big Guy #2 (Principal)",
-		"place": "NYU",
-		"director": "Jonah Q. Pettigrew"
-	}, {
-		"title": "Strapped",
-		"role": "Boy in Park",
-		"place": "HBO",
-		"director": "Forest Whitaker"
+		"title": "Point Break",
+		"role": "Fierce Woman (with Keanu Reeves)",
+		"place": "---",
+		"director": "Kathryn Bigelow"
 	}],
 	"televisionExperiences": [{
-		"title": "Can Openers",
-		"role": "Cook",
-		"place": "Canterbury Productions",
+		"title": "Picket Fences (with James Earl Jones)",
+		"role": "Prospective Juror",
+		"place": "---",
 		"director": "---"
 	}, {
-		"title": "Law and Order",
-		"role": "Juror",
-		"place": "NBC Universal/Wolf Films",
+		"title": "Thirty Something",
+		"role": "Doctor",
+		"place": "---",
 		"director": "---"
 	}],
 	"trainingExperiences": [{
-		"school": "William Esper Studio",
-		"degree": "---",
-		"area": "Acting Technique Level II",
-		"teacher": "David Newer"
+		"school": "University of California - San Diego",
+		"degree": "Bachelor of Arts",
+		"area": "Acting",
+		"teacher": "---"
 	}, {
-		"school": "William Esper Studio",
-		"degree": "---",
-		"area": "Acting Technique Level I",
-		"teacher": "David Newer"
+		"school": "University of California - San Diego",
+		"degree": "Master in Fine Arts",
+		"area": "Acting",
+		"teacher": "---"
 	}, {
-		"school": "TVI Actors Studio",
+		"school": "William Esper Studios",
 		"degree": "---",
-		"area": "Acting Level II: Scene Study",
-		"teacher": "Valerie Kingston"
+		"area": "Two Year Conservatory Program",
+		"teacher": "Bill Esper"
 	}, {
-		"school": "TVI Actors Studio",
+		"school": "Suzuki Actor Training",
 		"degree": "---",
-		"area": "Acting and Auditioning for Film and Television",
-		"teacher": "Judy Bowman"
-	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Commercial Techniques",
-		"teacher": "Judy Bowman"
-	}, {
-		"school": "TVI Actors Studio",
-		"degree": "---",
-		"area": "Bowman Acting Level I",
-		"teacher": "Angel David"
-	}, {
-		"school": "Star Productions",
-		"degree": "---",
-		"area": "Theatre Arts Workshop",
-		"teacher": "Kenny Resinski"
-	}, {
-		"school": "Saint Francis University",
-		"degree": "---",
-		"area": "Public Speaking",
-		"teacher": "Brent Ottaway"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "TV and Video Productions",
-		"teacher": "Sarah Shelton"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Multimedia Productions",
-		"teacher": "Darrin Dobrowolski"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama II",
-		"teacher": "Christine Kropcho"
-	}, {
-		"school": "East Stroudsburg High",
-		"degree": "---",
-		"area": "Drama I",
-		"teacher": "Christine Kropcho"
+		"area": "Actor Training",
+		"teacher": "Tadashi Suzuki"
 	}],
-	"specialSkills": "Valid Drivers License, Basketball, Track and Field, Boxing, Weightlifting"
+	"specialSkills": "Certified Jivamukti Yoga Teacher"
 }
