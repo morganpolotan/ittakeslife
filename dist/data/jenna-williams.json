@@ -1,0 +1,177 @@
+{
+	"name": "Jenna Williams",
+	"image": {
+		"url": "images/actors/jenna-williams.jpg",
+		"width": 500,
+		"height": 631
+	},
+	"height": "5'9\"",
+	"weight": "---",
+	"phone": "404-353-4202",
+	"email": "jenna.wms@gmail.com",
+	"website": "---",
+	"unionAffiliation": "---",
+	"hairColor": "---",
+	"eyeColor": "---",
+	"theaterExperiences": [{
+		"title": "Deadly Habits (won best play in October 2012 Short Play Lab)",
+		"role": "Doc (lead)",
+		"place": "---",
+		"director": "Kevin Lasenberry"
+	}, {
+		"title": "Hotel Lucky",
+		"role": "Cassie (lead)",
+		"place": "FIG",
+		"director": "---"
+	}, {
+		"title": "Once on this Island",
+		"role": "Ti Moune",
+		"place": "The Galloway School",
+		"director": "---"
+	}, {
+		"title": "The Conference of the Birds",
+		"role": "Heron",
+		"place": "The Galloway School",
+		"director": "---"
+	}, {
+		"title": "Kiss Me Kate",
+		"role": "Mother, manager",
+		"place": "The Galloway School",
+		"director": "---"
+	}, {
+		"title": "The Laramie Project",
+		"role": "Romaine Patterson",
+		"place": "The Galloway School",
+		"director": "---"
+	}],
+	"filmExperiences": [{
+		"title": "Young Like Us (web series)",
+		"role": "Roommate",
+		"place": "---",
+		"director": "Chloe Sarbib"
+	}, {
+		"title": "#2",
+		"role": "Sadie (lead)",
+		"place": "---",
+		"director": "Green Miller"
+	}, {
+		"title": "Cellar Dwellers (web series) - episode 1",
+		"role": "Jenna",
+		"place": "---",
+		"director": "Maxx Loup"
+	}, {
+		"title": "#3",
+		"role": "Renata (lead)",
+		"place": "---",
+		"director": "Green Miller"
+	}, {
+		"title": "The Waves",
+		"role": "Joan (lead)",
+		"place": "---",
+		"director": "Venise Stephenson"
+	}, {
+		"title": "Eyes on Style",
+		"role": "Actress",
+		"place": "---",
+		"director": "Tim Fornara"
+	}, {
+		"title": "Audition",
+		"role": "Woman",
+		"place": "Milesperhour_",
+		"director": "---"
+	}, {
+		"title": "Viceory!",
+		"role": "Andrea (lead)",
+		"place": "Nuanse Entertainment",
+		"director": "---"
+	}, {
+		"title": "Authentique",
+		"role": "Abby (lead)",
+		"place": "Columbia College",
+		"director": "---"
+	}],
+	"televisionExperiences": [{
+		"title": "IBM Watson",
+		"role": "Customer Service",
+		"place": "---",
+		"director": "Todd Selby"
+	}, {
+		"title": "Synchronoss",
+		"role": "Featued woman",
+		"place": "Eyeball NY",
+		"director": "---"
+	}, {
+		"title": "The Unbound Box",
+		"role": "Featured lead",
+		"place": "Origin Films",
+		"director": "---"
+	}, {
+		"title": "Rose Garden",
+		"role": "Featured woman",
+		"place": "---",
+		"director": "Kenrick Andrews"
+	}],
+	"trainingExperiences": [{
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Acting",
+		"teacher": "Bill Esper"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Shakespeare",
+		"teacher": "Bill Esper, Nancy Mayans"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Voice",
+		"teacher": "Patricia Fletcher"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "On Camera",
+		"teacher": "David and Linda Laundra"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Script Analysis",
+		"teacher": "David Kaplan"
+	}, {
+		"school": "Michael Howard Studios",
+		"degree": "---",
+		"area": "Summer Conservatory",
+		"teacher": "Michael Howard"
+	}, {
+		"school": "Michael Howard Studios",
+		"degree": "---",
+		"area": "Scene Study",
+		"teacher": "Jim Shankman"
+	}, {
+		"school": "Acting Studio Chicago",
+		"degree": "---",
+		"area": "On Camera",
+		"teacher": "---"
+	}, {
+		"school": "Northwestern University",
+		"degree": "---",
+		"area": "Basic Acting, Voice",
+		"teacher": "---"
+	}, {
+		"school": "Alliance Theatre",
+		"degree": "---",
+		"area": "Dialetcs/Monologue Work",
+		"teacher": "---"
+	}, {
+		"school": "Northwestern University",
+		"degree": "Bachelors of Science",
+		"area": "Journalism",
+		"teacher": "---"
+	}],
+	"specialSkills": {
+		"accentsDialects": "---",
+		"languages": "Spanish (conversational)",
+		"sports": "Yoga, Biking, Swimming, Roller Skating",
+		"musicDance": "Singing (Alto), Dance (Beginner/intermediate Hip-Hop, Ballet, Jazz, Modern)",
+		"other": "---"
+	}
+}	

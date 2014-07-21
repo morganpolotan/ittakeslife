@@ -1,0 +1,107 @@
+{
+	"name": "Steven Hultgren",
+	"image": {
+		"url": "images/actors/steven-hultgren.jpg",
+		"width": 441,
+		"height": 480
+	},
+	"height": "6'2\"",
+	"weight": "155",
+	"phone": "978-866-7417",
+	"email": "steven_hultgren978@yahoo.com",
+	"website": "---",
+	"unionAffiliation": "---",
+	"hairColor": "Brown",
+	"eyeColor": "Green",
+	"theaterExperiences": [{
+		"title": "How to Succeed in Business",
+		"role": "J.B. Biggley",
+		"place": "Middlesex Community College",
+		"director": "---"
+	}, {
+		"title": "The Rimers of Eldgrich",
+		"role": "Skelly",
+		"place": "Middlesex Community College",
+		"director": "---"
+	}, {
+		"title": "Anna in the Tropics (reading)",
+		"role": "Santiago",
+		"place": "Salem State College",
+		"director": "---"
+	}, {
+		"title": "Measure for Measure",
+		"role": "Whore/Nun (US / Anna Gunn)",
+		"place": "Ahmanson Theatre",
+		"director": "Bartlett Sher / Sir Peter Hall"
+	}],
+	"filmExperiences": [{
+		"title": "---",
+		"role": "---",
+		"place": "---",
+		"director": "---"
+	}],
+	"televisionExperiences": [{
+		"title": "---",
+		"role": "---",
+		"place": "---",
+		"director": "---"
+	}],
+	"trainingExperiences": [{
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Acting",
+		"teacher": "William Esper and Bruce McCarty"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Voice and Speech",
+		"teacher": "Pat Fletcher, Nancy Mayans"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Movement",
+		"teacher": "Ted Morin and Jules Helm"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Stage Combat",
+		"teacher": "Joe Pisapia"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Script Analysis",
+		"teacher": "David Kaplan"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Cold Reading/Audition",
+		"teacher": "Deb Jackel"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Mime",
+		"teacher": "Bill Bowers"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Alexander Technique",
+		"teacher": "Judith Grodowitz"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "On-Camera",
+		"teacher": "David and Linda Laundra"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Mask",
+		"teacher": "Per Brah"
+	}],
+	"specialSkills": {
+		"accentsDialects": "Classical American, RP, Cockney, Irish, Boston",
+		"languages": "---",
+		"sports": "---",
+		"musicDance": "Snare Drum, Beginner's Jazz Dance",
+		"other": "Yoga, Improvisation"
+	}
+}
