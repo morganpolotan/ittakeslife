@@ -142,5 +142,11 @@
 		"area": "Actor Training",
 		"teacher": "Tadashi Suzuki"
 	}],
-	"specialSkills": "Certified Jivamukti Yoga Teacher"
+	"specialSkills": {
+		"accentsDialects": "---",
+		"languages": "---",
+		"sports": "---",
+		"musicDance": "Singing",
+		"other": "Certified Jivamukti Yoga Teacher"
+	}
 }

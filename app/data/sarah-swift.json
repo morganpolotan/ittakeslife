@@ -1,0 +1,177 @@
+{
+	"name": "Sarah Swift",
+	"image": {
+		"url": "images/actors/sarah-swift.jpg",
+		"width": 500,
+		"height": 611
+	},
+	"height": "5'8\"",
+	"weight": "125",
+	"phone": "347-388-8126",
+	"email": "sarah.swift@rogers.com",
+	"website": "---",
+	"unionAffiliation": "ACTRA",
+	"hairColor": "Dark Brown",
+	"eyeColor": "Green",
+	"theaterExperiences": [{
+		"title": "Catch a Falling Star",
+		"role": "Danielle",
+		"place": "The Living Theatre (NYC)",
+		"director": "Erin Quinn Purcell"
+	}, {
+		"title": "Later Montreal",
+		"role": "Genevieve",
+		"place": "Next Play Theatre Company",
+		"director": "Dominique Davies"
+	}, {
+		"title": "Twelfth Night",
+		"role": "Olivia",
+		"place": "Urban Bard Productions",
+		"director": "Scott Moyle"
+	}, {
+		"title": "Romantic/Fanatic (writer)",
+		"role": "Jane",
+		"place": "Fool Productions",
+		"director": "Jennie Grimard"
+	}, {
+		"title": "As You Like It",
+		"role": "Phoebe",
+		"place": "Canopy Theatre Company",
+		"director": "Lada Darewych"
+	}, {
+		"title": "First Heist Club",
+		"role": "Varia",
+		"place": "Monster Camp Productions",
+		"director": "Jennie Grimard"
+	}, {
+		"title": "The Tempest",
+		"role": "Antonio",
+		"place": "Bard in the Park",
+		"director": "Anne Butler"
+	}, {
+		"title": "The Tree and the Sweetest Pea",
+		"role": "Jane",
+		"place": "New Ideas Festival",
+		"director": "Esther Jun"
+	}, {
+		"title": "Macbeth (tour)",
+		"role": "Malcolm",
+		"place": "Upstart Crow Productions",
+		"director": "Chris Coculuzzi"
+	}, {
+		"title": "Oedipus Rex",
+		"role": "Chorus",
+		"place": "Canopy Theatre Company",
+		"director": "Andrea Wasserman"
+	}, {
+		"title": "Macbeth's Kitchen",
+		"role": "Witch",
+		"place": "Strutting Shadow Productions",
+		"director": "Peter Cockett"
+	}, {
+		"title": "Othello",
+		"role": "Desdemona",
+		"place": "Hart House Theatre",
+		"director": "Jeremy Hutton"
+	}, {
+		"title": "The Pirates of Penzance",
+		"role": "Isabel",
+		"place": "Eastwood Arts Theatre",
+		"director": "Barbara Brown"
+	}, {
+		"title": "Twelfth Night",
+		"role": "Viola",
+		"place": "Eastwood Arts Theatre",
+		"director": "Jennifer Adams"
+	}],
+	"filmExperiences": [{
+		"title": "Gone",
+		"role": "Michelle (principal)",
+		"place": "Victor Gomez Productions",
+		"director": "Victor Gomez"
+	}, {
+		"title": "Strangler in Paradise",
+		"role": "Prom Dancer (featured)",
+		"place": "Mind Feed Films",
+		"director": "Kyle Anderson"
+	}, {
+		"title": "The Emergence",
+		"role": "Diana (lead)",
+		"place": "Reanimated Productions",
+		"director": "Jeff LeBlanc"
+	}],
+	"televisionExperiences": [{
+		"title": "M.V.P. (series)",
+		"role": "Waitress",
+		"place": "CBC Productions",
+		"director": "T.W. Peacocke"
+	}],
+	"trainingExperiences": [{
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Acting",
+		"teacher": "William Esper, 2 years"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Alexander",
+		"teacher": "Judith Grodowitz"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Mask and Mime",
+		"teacher": "Per Brahe, Bill Bowers"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Movement",
+		"teacher": "Ted Morin"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "On-Camera",
+		"teacher": "Linda and David Laundra"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Stage Combat",
+		"teacher": "Joe Pisapia"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Meisner Program",
+		"area": "Voice and Speech",
+		"teacher": "Pat Fletcher, Nancy Mayans"
+	}, {
+		"school": "Tom Todoroff Studio (NYC)",
+		"degree": "---",
+		"area": "Scene Study",
+		"teacher": "Tom Todoroff"
+	}, {
+		"school": "Centre for the Arts",
+		"degree": "---",
+		"area": "Acting for Camera",
+		"teacher": "John Boylan"
+	}, {
+		"school": "---",
+		"degree": "---",
+		"area": "Clown",
+		"teacher": "Adam Paolozza and Dan Watson"
+	}, {
+		"school": "---",
+		"degree": "---",
+		"area": "Commercials",
+		"teacher": "Sears and Switzer"
+	}, {
+		"school": "---",
+		"degree": "---",
+		"area": "Voice",
+		"teacher": "Debora Joy"
+	}],
+	"specialSkills": {
+		"accentsDialects": "Various American, Classical, RP",
+		"languages": "---",
+		"sports": "Competitive Swimming",
+		"musicDance": "Dance (Burlesque, Jazz), Instruments (Piano, Trombone)",
+		"other": "Stage Combat (Hand-to-Hand, Quarterstaff, Smallsword, Broadsword)"
+	}
+}
