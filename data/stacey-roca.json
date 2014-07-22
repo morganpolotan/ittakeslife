@@ -1,0 +1,197 @@
+{
+	"name": "Stacey Roca",
+	"image": {
+		"url": "images/actors/stacey-roca.jpg",
+		"width": 500,
+		"height": 416
+	},
+	"height": "---",
+	"weight": "---",
+	"phone": "646-239-4483",
+	"email": "",
+	"website": "",
+	"unionAffiliation": "---",
+	"hairColor": "---",
+	"eyeColor": "---",
+	"theaterExperiences": [{
+		"title": "Christmas Cock Up",
+		"role": "Lead",
+		"place": "The Cockpit Theatre",
+		"director": "---"
+	}, {
+		"title": "The Fixer",
+		"role": "Principle",
+		"place": "Soho Theatre",
+		"director": "---"
+	}, {
+		"title": "As You Like It",
+		"role": "Celia",
+		"place": "GB Theatre Company",
+		"director": "---"
+	}, {
+		"title": "The Merry Wives of Windsor",
+		"role": "Mistress Page",
+		"place": "GB Theatre Company",
+		"director": "---"
+	}, {
+		"title": "Washed Up",
+		"role": "Lead",
+		"place": "Royal Court",
+		"director": "---"
+	}, {
+		"title": "Opening Scenes",
+		"role": "Principle",
+		"place": "RADA",
+		"director": "---"
+	}, {
+		"title": "As You Like It",
+		"role": "Celia",
+		"place": "British Shakespeare Company",
+		"director": "---"
+	}, {
+		"title": "Henry V",
+		"role": "Catherine",
+		"place": "British Shakespeare Company",
+		"director": "---"
+	}, {
+		"title": "Closer to Heaven",
+		"role": "Lead",
+		"place": "(West End) The Arts Theatre",
+		"director": "---"
+	}],
+	"filmExperiences": [{
+		"title": "Stray Dogs (short)",
+		"role": "Lead",
+		"place": "Minka FK",
+		"director": "---"
+	}, {
+		"title": "Sins of London",
+		"role": "Lead",
+		"place": "2 Many Executives",
+		"director": "---"
+	}, {
+		"title": "Schoolboy",
+		"role": "Lead",
+		"place": "Fourmostfilm",
+		"director": "---"
+	}, {
+		"title": "Things To Do Before You're 30",
+		"role": "Principle",
+		"place": "First Choice Films",
+		"director": "---"
+	}, {
+		"title": "Oh Marbella!",
+		"role": "Principle",
+		"place": "Versatile Films",
+		"director": "---"
+	}],
+	"televisionExperiences": [{
+		"title": "White Van Man",
+		"role": "Guest Star",
+		"place": "ITV",
+		"director": "---"
+	}, {
+		"title": "Shameless (UK)",
+		"role": "Guest Star",
+		"place": "Channel 4",
+		"director": "---"
+	}, {
+		"title": "The Producers",
+		"role": "Series Regular",
+		"place": "Punk Cinema",
+		"director": "---"
+	}, {
+		"title": "Ladies Of Letters",
+		"role": "Series Regular",
+		"place": "ITV/Tiger Aspect",
+		"director": "---"
+	}, {
+		"title": "Waking The Dead",
+		"role": "Series Regular",
+		"place": "BBC",
+		"director": "---"
+	}, {
+		"title": "Strictly Confidential",
+		"role": "Series Regular",
+		"place": "ITV",
+		"director": "---"
+	}, {
+		"title": "Holby City",
+		"role": "Guest Star",
+		"place": "BBC",
+		"director": "---"
+	}, {
+		"title": "Wild At Heart",
+		"role": "Guest Star",
+		"place": "ITV",
+		"director": "---"
+	}, {
+		"title": "Walk Away And I Stumble",
+		"role": "Series Regular",
+		"place": "ITV",
+		"director": "---"
+	}, {
+		"title": "Doctors",
+		"role": "Guest Star",
+		"place": "BBC",
+		"director": "---"
+	}, {
+		"title": "MIT: Murder Investigation Team",
+		"role": "Guest Star",
+		"place": "BBC",
+		"director": "---"
+	}, {
+		"title": "Swiss Tony",
+		"role": "Guest Star",
+		"place": "BBC/Tiger Aspect",
+		"director": "---"
+	}, {
+		"title": "Lie With Me",
+		"role": "Series Regular",
+		"place": "ITV",
+		"director": "---"
+	}, {
+		"title": "Playback",
+		"role": "Series Regular",
+		"place": "BBC",
+		"director": "---"
+	}, {
+		"title": "Murder Squad",
+		"role": "Guest Star",
+		"place": "ITV",
+		"director": "---"
+	}, {
+		"title": "Merseybeat",
+		"role": "Guest Star",
+		"place": "BBC",
+		"director": "---"
+	}, {
+		"title": "Burn It",
+		"role": "Series Regular",
+		"place": "ITV",
+		"director": "---"
+	}, {
+		"title": "The Office (UK)",
+		"role": "Series Regular",
+		"place": "BBC/Ricky Gervais",
+		"director": "---"
+	}],
+	"trainingExperiences": [{
+		"school": "Webber Douglas Academy of Dramatic Art (3 years)",
+		"degree": "---",
+		"area": "Acting",
+		"teacher": "---"
+	}, {
+		"school": "William Esper Studio",
+		"degree": "Two Year Conservatory Program",
+		"area": "Acting",
+		"teacher": "Bill Esper"
+	}],
+	"specialSkills": {
+		"accentsDialects": "---",
+		"languages": "---",
+		"sports": "---",
+		"musicDance": "---",
+		"other": "---"
+	}
+}

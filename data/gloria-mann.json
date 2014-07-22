@@ -3,13 +3,13 @@
 	"image": {
 		"url": "images/actors/gloria-mann.jpg",
 		"width": 500,
-		"height": 587
+		"height": 614
 	},
 	"height": "---",
 	"weight": "---",
 	"phone": "---",
 	"email": "gloriamann22@gmail.com",
-	"website": "gloriamann.com",
+	"website": "http://www.gloriamann.com",
 	"unionAffiliation": "SAG-AFTRA, AEA",
 	"hairColor": "---",
 	"eyeColor": "---",
@@ -42,27 +42,27 @@
 		"title": "Death and the Maiden",
 		"role": "Paulina (with Jimmy Smits)",
 		"place": "Mark Taper Forum",
-		"director": "---"
+		"director": "Robert Egan"
 	}, {
 		"title": "The Maids",
 		"role": "Clair",
 		"place": "Mark Taper Forum",
-		"director": "---"
+		"director": "James O'Conner"
 	}, {
 		"title": "Play",
 		"role": "Woman #2 (with Terri Garr)",
 		"place": "Mark Taper Forum",
-		"director": "---"
+		"director": "James O'Conner"
 	}, {
 		"title": "Avenue A",
 		"role": "Rosa (with Mark Ruffalo, LA Critics Circle Award)",
 		"place": "LA, CA",
-		"director": "---"
+		"director": "Jim Holmes"
 	}, {
 		"title": "Tamara",
 		"role": "Emelia (5 year run)",
 		"place": "LA, CA",
-		"director": "---"
+		"director": "Richard Rose"
 	}, {
 		"title": "The Seagull",
 		"role": "Peasant Girl",
@@ -84,15 +84,10 @@
 		"place": "La Jolla Playhouse",
 		"director": "Robert Woodruff"
 	}, {
-		"title": "Ghost on Fire",
-		"role": "US (with Holly Hunter)",
-		"place": "La Jolla Playhouse",
-		"director": "---"
-	}, {
 		"title": "Merrily We Roll Along",
 		"role": "US (with Marin Mazzie)",
 		"place": "La Jolla Playhouse",
-		"director": "---"
+		"director": "James Lapine"
 	}],
 	"filmExperiences": [{
 		"title": "Parting Ways (2013 short)",
@@ -122,6 +117,11 @@
 		"director": "---"
 	}],
 	"trainingExperiences": [{
+		"school": "William Esper Studios",
+		"degree": "---",
+		"area": "Two Year Conservatory Program",
+		"teacher": "Bill Esper"
+	}, {
 		"school": "University of California - San Diego",
 		"degree": "Bachelor of Arts",
 		"area": "Acting",
@@ -132,21 +132,16 @@
 		"area": "Acting",
 		"teacher": "---"
 	}, {
-		"school": "William Esper Studios",
-		"degree": "---",
-		"area": "Two Year Conservatory Program",
-		"teacher": "Bill Esper"
-	}, {
 		"school": "Suzuki Actor Training",
 		"degree": "---",
 		"area": "Actor Training",
 		"teacher": "Tadashi Suzuki"
 	}],
 	"specialSkills": {
-		"accentsDialects": "---",
-		"languages": "---",
+		"accentsDialects": "RP",
+		"languages": "some Spanish",
 		"sports": "---",
-		"musicDance": "Singing",
+		"musicDance": "Singer (Alto)",
 		"other": "Certified Jivamukti Yoga Teacher"
 	}
 }
