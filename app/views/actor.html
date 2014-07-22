@@ -26,6 +26,18 @@
 					<td rowspan="4"><img ng-src="{{ actor.image.url }}" alt="{{ actor.name }}" width="{{ actor.image.width }}" height="{{ actor.image.height }}" border="0" /></td>
 				  	<td colspan="3" class="name">{{ actor.name }}</td>
 				 </tr>
+				<tr ng-show="actor.website">
+				  	<td colspan="3" class="union"><strong>Website: </strong><br>
+					<a ng-href="{{ actor.website }}" target="_blank">{{ actor.name }}</a></td>
+				</tr>
+				<tr ng-show="actor.phone">
+				  	<td colspan="3" class="union"><strong>Phone: </strong><br>
+					{{ actor.phone }}</a></td>
+				</tr>
+				<tr ng-show="actor.email">
+				  	<td colspan="3" class="union"><strong>Email: </strong><br>
+					{{ actor.email }}</td>
+				</tr>
 				<tr>
 				  	<td colspan="3" class="union"><strong>Union affiliation: </strong><br>
 					{{ actor.unionAffiliation }}</td>
