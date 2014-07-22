@@ -7,7 +7,10 @@
 	},
 	"height": "---",
 	"weight": "---",
-	"unionAffiliation": "",
+	"phone": "646-239-4483",
+	"email": "---",
+	"website": "http://www.staceyroca.com",
+	"unionAffiliation": "---",
 	"hairColor": "---",
 	"eyeColor": "---",
 	"theaterExperiences": [{
@@ -57,6 +60,11 @@
 		"director": "---"
 	}],
 	"filmExperiences": [{
+		"title": "Stray Dogs (short)",
+		"role": "Lead",
+		"place": "Minka FK",
+		"director": "---"
+	}, {
 		"title": "Sins of London",
 		"role": "Lead",
 		"place": "2 Many Executives",
