@@ -5,12 +5,12 @@
 		"width": 500,
 		"height": 631
 	},
+	"unionAffiliation": "---",
 	"height": "5'9\"",
 	"weight": "---",
 	"phone": "404-353-4202",
 	"email": "jenna.wms@gmail.com",
 	"website": "",
-	"unionAffiliation": "---",
 	"hairColor": "---",
 	"eyeColor": "---",
 	"theaterExperiences": [{
@@ -174,4 +174,4 @@
 		"musicDance": "Singing (Alto), Dance (Beginner/intermediate Hip-Hop, Ballet, Jazz, Modern)",
 		"other": "---"
 	}
-}	
+}

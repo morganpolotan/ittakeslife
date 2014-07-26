@@ -23,44 +23,19 @@
 		<div id="content">  
 			<table>
 				<tr>
-					<td rowspan="4"><img ng-src="{{ actor.image.url }}" alt="{{ actor.name }}" width="{{ actor.image.width }}" height="{{ actor.image.height }}" border="0" /></td>
-				  	<td colspan="3" class="name">{{ actor.name }}</td>
+					<td rowspan="7"><img ng-src="{{ actor.image.url }}" alt="{{ actor.name }}" width="{{ actor.image.width }}" height="{{ actor.image.height }}" border="0" /></td>
+					<td rowspan="3">
+						<ul style="list-style: none;">
+							<li class="name">{{ actor.name }}</li>
+							<li class="union"><strong>Union: </strong>{{ actor.unionAffiliation }}</li>
+							<li class="union"><strong>Website: </strong><a ng-href="{{ actor.website }}" target="_blank">{{ actor.name }}</a></li>
+							<li class="union"><strong>Phone: </strong>{{ actor.phone }}</li>
+							<li class="union"><strong>Email: </strong>{{ actor.email }}</li>
+							<li class="union"><strong>Hair: </strong>{{ actor.hairColor }}</li>
+							<li class="union"><strong>Eyes: </strong>{{ actor.eyeColor }}</li>
+						</ul>
+					</td>
 				 </tr>
-				<tr ng-show="actor.website">
-				  	<td colspan="3" class="union"><strong>Website: </strong><br>
-					<a ng-href="{{ actor.website }}" target="_blank">{{ actor.name }}</a></td>
-				</tr>
-				<tr ng-show="actor.phone">
-				  	<td colspan="3" class="union"><strong>Phone: </strong><br>
-					{{ actor.phone }}</a></td>
-				</tr>
-				<tr ng-show="actor.email">
-				  	<td colspan="3" class="union"><strong>Email: </strong><br>
-					{{ actor.email }}</td>
-				</tr>
-				<tr>
-				  	<td colspan="3" class="union"><strong>Union affiliation: </strong><br>
-					{{ actor.unionAffiliation }}</td>
-				</tr>
-				<tr>
-				  	<td colspan="3" class="contact">&nbsp;</td>
-				</tr>
-				<tr>
-				  	<td colspan="3" class="contact">Hair color: {{ actor.hairColor }} <br />
-
-					Eye color: {{ actor.eyeColor }}</td>
-
-
-					<!-- <p>Voice Sample</p>
-						<p id="player">
-						<script type="text/javascript">
-						var s3 = new SWFObject("../mp3player.swf", "line", "240", "20", "7");
-						s3.addVariable("file","voice.mp3");
-						s3.addVariable("repeat","true");
-						s3.addVariable("showdigits","true");
-						s3.write("player");
-						</script></td> -->
-				</tr>
 			</table>
 			<table width="100%" border="0" cellpadding="0" cellspacing="0">
 			  	<tr>
