@@ -5,12 +5,12 @@
 		"width": 500,
 		"height": 500
 	},
+	"unionAffiliation": "---",
 	"height": "6'2\"",
 	"weight": "190 lbs",
 	"phone": "551-206-6134",
 	"email": "kyle.kolich1@gmail.com",
 	"website": "",
-	"unionAffiliation": "---",
 	"hairColor": "Dark Brown",
 	"eyeColor": "Hazel",
 	"theaterExperiences": [{
@@ -94,4 +94,4 @@
 		"musicDance": "---",
 		"other": "Improv, Standup, Sketch Comedy, Directing, Writing, Firearms (9mm/.45cal/MP5), Driver's License (automatic)"
 	}
-}	
+}

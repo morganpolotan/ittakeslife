@@ -5,12 +5,12 @@
 		"width": 500,
 		"height": 700
 	},
+	"unionAffiliation": "---",
 	"height": "5'8\"",
 	"weight": "---",
 	"phone": "401-864-3465",
 	"email": "mello.jonathan.m@gmail.com",
 	"website": "",
-	"unionAffiliation": "---",
 	"hairColor": "Brown",
 	"eyeColor": "Brown",
 	"theaterExperiences": [{
@@ -69,4 +69,4 @@
 		"musicDance": "---",
 		"other": "Music Reading, Singing, Dancing, Creating, Improviser, Story Teller, Funny Man, Book Nerd"
 	}
-}	
+}
