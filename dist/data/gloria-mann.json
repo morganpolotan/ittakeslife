@@ -3,7 +3,7 @@
 	"image": {
 		"url": "images/actors/gloria-mann.jpg",
 		"width": 500,
-		"height": 614
+		"height": 333
 	},
 	"unionAffiliation": "SAG-AFTRA, AEA",
 	"height": "---",
@@ -11,8 +11,8 @@
 	"phone": "---",
 	"email": "gloriamann22@gmail.com",
 	"website": "http://www.gloriamann.com",
-	"hairColor": "---",
-	"eyeColor": "---",
+	"hairColor": "brown",
+	"eyeColor": "brown",
 	"theaterExperiences": [{
 		"title": "SPARK Reading (2012)",
 		"role": "Evelyn w. Marin Ireland",
