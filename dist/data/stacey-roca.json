@@ -5,14 +5,14 @@
 		"width": 500,
 		"height": 416
 	},
-	"unionAffiliation": "---",
+	"unionAffiliation": "British Equity",
 	"height": "---",
 	"weight": "---",
 	"phone": "646-239-4483",
-	"email": "",
-	"website": "",
-	"hairColor": "---",
-	"eyeColor": "---",
+	"email": "rocastacey@gmail.com",
+	"website": "http://www.staceyroca.com",
+	"hairColor": "Strawberry Blonde",
+	"eyeColor": "Brown",
 	"theaterExperiences": [{
 		"title": "Christmas Cock Up",
 		"role": "Lead",
@@ -177,9 +177,9 @@
 		"director": "---"
 	}],
 	"trainingExperiences": [{
-		"school": "Webber Douglas Academy of Dramatic Art (3 years)",
-		"degree": "---",
-		"area": "Acting",
+		"school": "Webber Douglas Academy of Dramatic Art (London)",
+		"degree": "3 Year Diploma",
+		"area": "Classical Theatre Acting",
 		"teacher": "---"
 	}, {
 		"school": "William Esper Studio",
@@ -188,10 +188,10 @@
 		"teacher": "Bill Esper"
 	}],
 	"specialSkills": {
-		"accentsDialects": "---",
+		"accentsDialects": "Standard American, English RP, Northern English, Cockney, London, Liverpool, South African, Australian.",
 		"languages": "---",
-		"sports": "---",
-		"musicDance": "---",
-		"other": "---"
+		"sports": "Yoga, Stage Combat, Horse Riding, Boxing, Tennis, Field Hockey, Swimming, Cycling.",
+		"musicDance": "Voice (Professional Jazz Singer, West End Musical Theatre Voice/Experience, Opera Student)  Music  (Basic Guitar, Basic Piano)  Dance  (Salsa, Basic Modern Dance).",
+		"other": "Improvisation, Clowning, Driving Licence, Bartending."
 	}
 }
