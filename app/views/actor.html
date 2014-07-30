@@ -25,7 +25,7 @@
 							<li class="union"><strong>Union: </strong>{{ actor.unionAffiliation }}</li>
 							<li class="union" ng-show="actor.website"><strong>Website: </strong><a ng-href="{{ actor.website }}" target="_blank">{{ actor.name }}</a></li>
 							<li class="union"><strong>Phone: </strong>{{ actor.phone }}</li>
-							<li class="union"><strong>Email: </strong>{{ actor.email }}</li>
+							<li class="union" ng-show="actor.email"><strong>Email: </strong><a ng-href="mailto:{{actor.email}}">{{ actor.email }}</a></li>
 							<li class="union"><strong>Hair: </strong>{{ actor.hairColor }}</li>
 							<li class="union"><strong>Eyes: </strong>{{ actor.eyeColor }}</li>
 						</ul>
