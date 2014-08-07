@@ -11,8 +11,9 @@
 	"phone": "646-288-9607",
 	"email": "contact@juliarosa.eu",
 	"website": "http://www.juliarosa.eu",
-	"hairColor": "---",
-	"eyeColor": "---",
+	"imdb": "http://www.imdb.com/name/nm2274778/",
+	"hairColor": "Red Brown",
+	"eyeColor": "Green",
 	"theaterExperiences": [{
 		"title": "The Other Mozart (Solo Show)",
 		"role": "Marianna Mozart",
@@ -22,7 +23,7 @@
 		"title": "Leaving Ziller Valley (Solo Show)",
 		"role": "Elizabeth",
 		"place": "Theater Row (United Solo Festival)",
-		"director": "---"
+		"director": "R. Goeber"
 	}, {
 		"title": "Urfaust",
 		"role": "Gretchen",
@@ -47,7 +48,7 @@
 		"title": "Mr. Puntila And His Man Matti",
 		"role": "Eva Puntila",
 		"place": "Tyrolean Theater Festival Telfs (Austria)",
-		"director": "---"
+		"director": "M. Voellenklee"
 	}, {
 		"title": "Tannoed (world premiere)",
 		"role": "Marianne",
@@ -168,7 +169,7 @@
 		"teacher": "Larry Moss"
 	}],
 	"specialSkills": {
-		"accentsDialects": "Classical American, Austrian, German, French, Spanish, Italian, Russian, Hungarian (knowledge of IPA)",
+		"accentsDialects": "Classical American, Neutral American, Austrian, German, French, Spanish, Italian, Russian, Hungarian (knowledge of IPA)",
 		"languages": "English and German (bi-lingual), Spanish, French (BA Modern Languages, Open University, UK, 2016)",
 		"sports": "Stage Combat, Surfing, Snowboarding, Skiing, Swimming, Wakeboard, Yoga",
 		"musicDance": "Salsa, Tango, Belly Dance, Ballet, Hip-Hop, Waltz, Music (Piano, Singer)",
