@@ -21,9 +21,17 @@
 					<td rowspan="7"><img ng-src="{{ actor.image.url }}" alt="{{ actor.name }}" width="{{ actor.image.width }}" height="{{ actor.image.height }}" border="0" /></td>
 					<td rowspan="3">
 						<ul style="list-style: none;">
-							<li class="name">{{ actor.name }}</li>
+							<li class="name" ng-show="actor.name !== 'Julia Rosa Stockl' ">{{ actor.name }}</li>
+							<li class="name" ng-show="actor.name === 'Julia Rosa Stockl' ">Julia Rosa St&ouml;ckl</li>
+
 							<li class="union"><strong>Union: </strong>{{ actor.unionAffiliation }}</li>
-							<li class="union" ng-show="actor.website"><strong>Website: </strong><a ng-href="{{ actor.website }}" target="_blank">{{ actor.name }}</a></li>
+
+							<li class="union" ng-show="actor.website && actor.name !== 'Julia Rosa Stockl' "><strong>Website: </strong><a ng-href="{{ actor.website }}" target="_blank">{{ actor.name }}</a></li>
+							<li class="union" ng-show="actor.website && actor.name === 'Julia Rosa Stockl' "><strong>Website: </strong><a ng-href="{{ actor.website }}" target="_blank">Julia Rosa St&ouml;ckl</a></li>
+
+							<li class="union" ng-show="actor.imdb && actor.name !== 'Julia Rosa Stockl' "><strong>IMDB: </strong><a ng-href="{{ actor.imdb }}" target="_blank">{{ actor.name }}</a></li>
+							<li class="union" ng-show="actor.imdb && actor.name === 'Julia Rosa Stockl' "><strong>IMDB: </strong><a ng-href="{{ actor.imdb }}" target="_blank">Julia Rosa St&ouml;ckl</a></li>
+
 							<li class="union"><strong>Phone: </strong>{{ actor.phone }}</li>
 							<li class="union" ng-show="actor.email"><strong>Email: </strong><a ng-href="mailto:{{actor.email}}">{{ actor.email }}</a></li>
 							<li class="union"><strong>Hair: </strong>{{ actor.hairColor }}</li>
